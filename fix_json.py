@@ -64,7 +64,6 @@ def extract_balanced_objects(raw: str):
     return objs
 
 
-# ---------------------------------------------------------------------
 
 def auto_fix_common_damage(txt: str) -> str:
     """
