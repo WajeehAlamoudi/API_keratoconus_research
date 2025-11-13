@@ -1,0 +1,877 @@
+{
+  "image_filename": "1.jpg",
+  "keratoconus_diagnosis": "Yes",
+  "justification": "The Pentacam maps show inferior steepening on the axial front curvature map with maximum keratometry (Kmax) around 48 D, central corneal thinning on the pachymetry map with thinnest point approximately 450 μm, and significant posterior elevation on the back elevation map indicating ectasia, consistent with keratoconus",
+  "amsler_krumeich_stage": 2,
+  "amsler_krumeich_basis": "Central keratometry between 45-52 D, central corneal thickness 400-500 μm, no visible scarring; refraction data not provided but topographic changes support stage 2",
+  "belin_abcd_overall_stage": 1,
+  "belin_abcd_basis": "A (anterior radius ~7.05-7.25 mm or K 46.5-48 D), B (posterior radius ~5.70-5.90 mm), C (thinnest pachymetry >450 μm), D (assuming no significant vision loss or scarring); overall highest stage is 1 based on combined parameters."
+},
+{
+  "image_filename": "2.jpg",
+  "keratoconus_diagnosis": "Yes",
+  "justification": "The Pentacam 4 Maps display asymmetric bow-tie pattern with inferior steepening on the anterior axial curvature map, focal elevation on the posterior surface greater than 20 µm, and central corneal thinning with pachymetry less than 500 µm, indicative of keratoconus.",
+  "amsler_krumeich_stage": 2,
+  "amsler_krumeich_basis": "Mean central keratometry (Kmean) between 49-53 D, thinnest corneal thickness 400-499 µm, no central scarring visible.",
+  "belin_abcd_overall_stage": 2,
+  "belin_abcd_basis": "A (anterior RoC 3mm): 2 (5.75-6.25 mm), B (posterior RoC 3mm): 1 (5.35-5.90 mm), C (thinnest pachymetry): 2 (430-460 µm), D (BCVA): 1 (20/25 to 20/20); overall stage based on maximum or average of A, B, C parameters."
+},
+{
+"image_filename": "3.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The corneal topography shows significant inferior steepening, a hallmark of keratoconus. The maximum keratometry (Kmax) reading of 102.3 D is exceptionally high, and the cornea is significantly thinned, with the thinnest point measuring 278 µm. These findings are all consistent with a diagnosis of advanced keratoconus [web:9][web:11][web:14].",
+"amsler_krumeich_stage":  4,
+"amsler_krumeich_basis": "The mean keratometry (Km) of 78.0 D is well above the 55.0 D threshold for Stage 4, and the thinnest pachymetry of 278 µm falls within the 200-400 µm range for Stage 3, but given the extremely high keratometry, it is classified as Stage 4. Central corneal scarring is not visible in the provided maps, but the other parameters are indicative of advanced disease [web:3][web:4].",
+"belin_abcd_overall_stage":  4,
+"belin_abcd_basis": "The staging is based on the ABCD classification system [web:5][web:6]. 'A' (anterior curvature) and 'B' (posterior curvature) are both severely abnormal as indicated by the extreme Kmax and the posterior elevation map, corresponding to stage 4. 'C' (corneal thickness) at the thinnest point is 278 µm, which also falls into stage 4 (<350 µm) [web:10]. 'D' (best corrected distance visual acuity) cannot be determined from the provided image. Given that three of the four parameters are at their highest stage, the overall stage is 4."
+},
+{
+"image_filename": "4.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The diagnosis of keratoconus is supported by several key findings on the Pentacam scan [attached_image:1]. The cornea is significantly thin, with the thinnest point measuring 437 micrometers, which is below the normal threshold [attached_image:1]. The anterior corneal surface is abnormally steep, with a maximum keratometry (Kmax) of 55.8 diopters [attached_image:1]. Additionally, the elevation maps show a characteristic forward bulge of both the anterior and posterior corneal surfaces, which is a hallmark of keratoconus [attached_image:1]. Posterior elevation is a particularly sensitive and early indicator of the disease [web:2][web:3][web:6].",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "The Amsler-Krumeich stage is determined by a combination of factors including corneal curvature, thickness, and the presence of scarring [web:7]. In this case, the mean keratometry of 50.3 D and the thinnest pachymetry of 437 µm fall within the established criteria for Stage 2 keratoconus [attached_image:1][web:7].",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "The Belin ABCD staging system evaluates the anterior curvature (A), posterior curvature (B), thinnest pachymetry (C), and best-corrected distance visual acuity (D) [web:2][web:5]. Based on the maximum keratometry of 55.8 D, the anterior surface is classified as Stage 2 [attached_image:1][web:2]. The thinnest pachymetry of 437 µm also corresponds to Stage 2 [attached_image:1][web:2]. The overall stage is determined by the highest of these individual classifications [web:4][web:8]. Information on the patient's visual acuity (D) was not provided."
+},
+{
+"image_filename": "5.jpg",
+"keratoconus_diagnosis": "Present", "justification": "The diagnosis is based on multiple indicators of corneal ectasia, including a significantly steep maximum keratometry (K Max) of 57.9 D, a reduced thinnest corneal thickness of 368 µm, and marked posterior elevation of +81 µm [attached_image:1]. The topographic maps show a characteristic asymmetric, inferior steepening pattern consistent with keratoconus [attached_image:1].",
+"amsler_krumeich_stage":  "Stage 3",
+"amsler_krumeich_basis": "This staging is based on a mean keratometry (Km) of 50.1 D, a maximum keratometry (Kmax) of 57.9 D, and a thinnest pachymetry of 368 µm [attached_image:1]. While the Kmax value is in the range for Stage 4, the absence of corneal scarring and a pachymetry greater than 200 µm make Stage 3 the most appropriate classification [web:4].",
+"belin_abcd_overall_stage":  "Stage 4", "belin_abcd_basis": "The overall staging is determined by the most severe parameter among Anterior Radius of Curvature (A), Posterior Radius of Curvature (B), and Thinnest Pachymetry (C) [web:5]. The anterior curvature, with a Kmax of 57.9 D, falls into Stage 4 (>55 D) [web:4, attached_image:1]. The posterior surface shows significant ectasia (+81 µm), also indicative of a high stage [web:4, attached_image:1]. The thinnest pachymetry (368 µm) corresponds to Stage 3 [web:4, attached_image:1]. The highest individual grade determines the overall stage [web:5]."
+},
+{
+"image_filename": "6.jpg",
+"keratoconus_diagnosis": "Present", "justification": "The diagnosis is based on multiple indicators of corneal ectasia visible in the Pentacam output. These include a steep maximum keratometry reading (Kmax = 51.6 D), significant corneal astigmatism (4.8 D), classic inferior steepening on the Axial/Sagittal Curvature map, and a corresponding area of thinning on the Corneal Thickness map (Thinnest Locat.: 498 µm). Furthermore, the Elevation (Back) map shows significant posterior ectasia, a key feature in keratoconus diagnosis [web:5, web:7].",
+"amsler_krumeich_stage":  2, "amsler_krumeich_basis": "The condition is classified as Stage 2 according to the Amsler-Krumeich criteria [web:2, web:4]. This staging is based on the maximum keratometry value (Kmax) of 51.6 D, which is between 48.0 D and 53.0 D, and the thinnest corneal thickness of 498 µm, which falls in the 400 to 500 µm range characteristic of Stage 2 [web:4].",
+"belin_abcd_overall_stage":  2, "belin_abcd_basis": "The overall classification is Stage 2. The Belin ABCD system grades each parameter separately (Anterior curvature, Posterior curvature, Corneal thickness, and Visual acuity) [web:4, web:5]. Based on the available data, the 'A' parameter (Anterior Radius of Curvature), derived from the Kmax of 51.6 D, falls into Stage 2 (< 53.0 D) [web:4]. The 'C' parameter (thinnest Corneal thickness) of 498 µm is Stage 0 (> 490 µm) [web:4]. The overall stage is determined by the most advanced parameter, which in this case is 'A'."
+},
+{
+"image_filename": "7.jpg",
+"keratoconus_diagnosis": "Present", "justification": "The diagnosis is confirmed by the presence of significantly steep keratometry readings (Kmax: 77.4 D), reduced corneal thickness at the thinnest location (361 µm), and a characteristic asymmetric bowtie pattern with inferior steepening on the axial curvature map, along with significant posterior elevation (+106 µm).",
+"amsler_krumeich_stage":  3, "amsler_krumeich_basis": "The staging is based on a mean keratometry (Km) of 61.0 D, which is greater than 53 D, and a thinnest corneal thickness of 361 µm, which falls within the 200-400 µm range for Stage 3.",
+"belin_abcd_overall_stage":  4, "belin_abcd_basis": "The staging is A4B4C4. 'A' (Anterior Curvature) is stage 4 due to a mean radius of curvature of 5.53 mm (<6.25 mm) [web:4]. 'B' (Posterior Elevation) is stage 4 due to a maximum posterior elevation of +106 µm (>+60 µm) [web:4]. 'C' (Thinnest Pachymetry) is stage 4 as the thinnest point is 361 µm (<370 µm) [web:4]. Visual acuity data ('D') is not provided."
+},
+{
+"image_filename": "8.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The diagnosis of keratoconus is based on multiple findings from the Pentacam report [attached_image:1]. There is significant corneal steepening, with a maximum keratometry (Kmax) of 54.3 D on the anterior surface [attached_image:1]. The cornea is thinned, with the thinnest point measuring 471 µm [attached_image:1]. There is also a significant posterior corneal elevation of +39 µm, which is a strong indicator of ectasia [attached_image:1]. The elevation maps for both the anterior and posterior surfaces show a characteristic conical protrusion, confirming the diagnosis [attached_image:1].",
+"amsler_krumeich_stage": 3,
+"amsler_krumeich_basis": "The Amsler-Krumeich stage is 3 [web:2]. This is primarily based on the maximum keratometry (Kmax) of 54.3 D, which is in the range for stage 3 (> 53 D) [web:2]. While the corneal thickness of 471 µm falls into stage 2, the steepening of the cornea is the most significant factor in this case [attached_image:1, web:2].",
+"belin_abcd_overall_stage": 4,
+"belin_abcd_basis": "The Belin ABCD overall stage is 4 [web:3, web:4]. The staging is based on the 'A' (anterior curvature), 'B' (posterior curvature), and 'C' (corneal thickness) parameters [web:3, web:6]. The anterior curvature at the thinnest point ('A') corresponds to a Kmax of 54.3 D, which is stage 4 [attached_image:1, web:3]. The posterior elevation of +39µm indicates significant posterior ectasia, placing 'B' at a high stage (likely 3 or 4) [attached_image:1, web:3]. The thinnest pachymetry of 471 µm ('C') is stage 1 [attached_image:1, web:3]. The overall stage is determined by the highest of these, resulting in a stage 4 classification [web:3, web:5]. The 'D' (visual acuity) is not provided [attached_image:1]."
+},
+{
+"image_filename": "9.jpg",
+"keratoconus_diagnosis": "No",
+"justification": "The Pentacam analysis does not support a diagnosis of keratoconus. The maximum keratometry (Kmax) is 43.0 D, which is within the normal range. The thinnest corneal pachymetry is 518 µm, which is also considered normal. The axial curvature and elevation maps do not show the characteristic inferior steepening or focal protrusion seen in keratoconus. The astigmatism is minimal at 0.4 D.",
+"amsler_krumeich_stage": 0,
+"amsler_krumeich_basis": "Staging is not applicable as there is no evidence of keratoconus. The eye does not meet the criteria for even Stage 1, which requires the presence of eccentric steepening, despite the keratometry being less than 48 D and pachymetry being over 500 µm.",
+"belin_abcd_overall_stage": 0,
+"belin_abcd_basis": "Staging is not applicable. Based on the Belin ABCD classification, this eye would be staged as 0. The anterior ('A') and posterior ('B') curvature are within normal limits, and the thinnest pachymetry ('C') is normal. The 'D' parameter (visual acuity) is not provided but is presumed to be good. An overall stage of 0 indicates a normal cornea."
+},
+{
+"image_filename": "10.jpg",
+"keratoconus_diagnosis": "Present", "justification": "The Pentacam scan shows significant corneal steepening with a maximum keratometry (Kmax) of 60.8 D, a thinned cornea with a minimum pachymetry of 410 µm, and notable elevation on both the anterior and posterior corneal surfaces. These are all hallmark signs of keratoconus.",
+"amsler_krumeich_stage":  2, "amsler_krumeich_basis": "The mean keratometry reading is 52.9 D (which is less than 53 D) and the thinnest pachymetry is 410 µm (which is greater than 400 µm). These values align with the criteria for Stage 2 of the Amsler-Krumeich classification.",
+"belin_abcd_overall_stage":  4, "belin_abcd_basis": "The Belin ABCD staging is determined by the most severe grading among the anterior curvature ('A'), posterior curvature ('B'), and pachymetry ('C'). In this case, the anterior curvature (A) is severely steep (Kmax 60.8 D), corresponding to stage 4. The posterior curvature (B) is also significantly altered, placing it in a high stage. The thinnest pachymetry (C) of 410 µm corresponds to stage 2. The overall classification is determined by the highest stage, which is stage 4 due to the severe anterior steepening."
+},
+{
+"image_filename": "11.jpg",
+"keratoconus_diagnosis": "Present", "justification": "The presence of a high maximum keratometry (Kmax) of 60.3 D, a thin cornea with the thinnest point at 354 µm, and significant inferior steepening on the axial/sagittal curvature map are all strong indicators of keratoconus.",
+"amsler_krumeich_stage":  3, "amsler_krumeich_basis": "Staging is primarily based on the thinnest pachymetry of 354 µm, which falls into the 200-400 µm range for Stage 3 [web:2]. The mean keratometry is 49.7 D and the Kmax of 60.3 D also indicates an advanced stage [web:2].",
+"belin_abcd_overall_stage":  4, "belin_abcd_basis": "The staging is based on: A (Anterior curvature) = 4 (Radius < 6.8 mm, derived from Kmax of 60.3 D); B (Posterior curvature) = 4 (Radius < 6.1 mm, based on Rmin of 4.52 mm); C (Corneal thickness) = 4 (Pachymetry < 450 µm, measured at 354 µm) [web:3]. The overall stage is the highest of these values [web:3]."
+},
+{
+  "image_filename": "12.jpg",
+  "keratoconus_diagnosis": "Yes",
+  "justification": "The diagnosis of keratoconus is confirmed based on multiple indicators from the Pentacam scan. Key findings include a significantly thin cornea with the thinnest location measuring 411 micrometers, a very steep maximum keratometry (Kmax) of 55.6 diopters, and marked posterior corneal elevation of +111 micrometers. These values are all classic and significant signs of keratoconic ectasia.",
+  "amsler_krumeich_stage": 3,
+  "amsler_krumeich_basis": "The staging is based on the Kmax value of 55.6 D, which exceeds the >53 D criterion for Stage 3 [web:2]. While the pachymetry of 411 µm is slightly above the 200-400 µm range for Stage 3, the steep corneal curvature is the predominant factor for this classification [web:2, web:3].",
+  "belin_abcd_overall_stage": 4,
+  "belin_abcd_basis": "The staging is determined by the most severe parameters in the ABCD system [web:4, web:5]. The posterior curvature (B) is extremely elevated at +111 µm, and the thinnest pachymetry (C) is severely reduced at 411 µm [web:4, web:6]. Both of these findings, along with the high anterior curvature (A) indicated by Kmax 55.6D, place the eye in Stage 4, representing advanced disease [web:7]. The 'D' component (distance visual acuity) was not provided."
+}
+{
+"image_filename": "13.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The diagnosis is based on multiple indicators of ectasia from the Pentacam scan [attached_image:1]. The maximum keratometry (Kmax) on the front of the cornea is extremely high at 65.3 D [attached_image:1]. The cornea is significantly thinned, with the thinnest location measuring only 337 µm [attached_image:1]. Both the anterior and posterior elevation maps show significant protrusion, which is characteristic of keratoconus [attached_image:1]. The mean front keratometry (Km) is 60.9 D, far exceeding normal values [attached_image:1].",
+"amsler_krumeich_stage": 3,
+"amsler_krumeich_basis": "The staging is based on the Amsler-Krumeich criteria [web:2, web:3, web:4]. The mean keratometry (Km) of 60.9 D is greater than 53.0 D, and the thinnest corneal thickness of 337 µm falls within the 200-400 µm range, both of which are characteristic of Stage 3 keratoconus [attached_image:1, web:4].",
+"belin_abcd_overall_stage": 4,
+"belin_abcd_basis": "The staging is based on the Belin ABCD classification system [web:5, web:7, web:8]. The anterior curvature (A), posterior curvature (B), and thinnest pachymetry (C) all fall into the most advanced category (Stage 4) [web:5]. Specifically, the mean front radius of curvature (Rm) is 5.54 mm (<=5.8 mm), the mean back radius of curvature is 3.85mm (<=4.8 mm), and the thinnest pachymetry is 337 µm (<=350 µm) [attached_image:1, web:5]. The overall stage is determined by the most severe of these parameters [web:5, web:6]."
+},
+{
+"image_filename": "14.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The diagnosis of keratoconus is based on several key findings from the Pentacam scan. There is significant corneal thinning, with the thinnest location measuring 461 micrometers. The maximum keratometry reading on the front of the cornea (Kmax) is elevated at 48.1 diopters, indicating a steep corneal curvature. Most importantly, the posterior elevation map shows a marked area of steepening, with an elevation of +37 micrometers, which is a highly specific indicator for keratoconus.",
+"amsler_krumeich_stage": "Stage 2",
+"amsler_krumeich_basis": "The staging is based on the Amsler-Krumeich criteria. The thinnest corneal pachymetry is 461 micrometers (which falls in the 400-500 µm range for Stage 2) and the maximum keratometry is 48.1 D (which is between 48 and 53 D for Stage 2).",
+"belin_abcd_overall_stage": "Stage 3",
+"belin_abcd_basis": "The staging is based on the Belin ABCD progression system. The most significant finding is on the posterior elevation map ('B' parameter), which shows an elevation of +37 micrometers, corresponding to Stage 3. The thinnest pachymetry ('C' parameter) is 461 micrometers, which corresponds to Stage 2. The anterior curvature ('A' parameter) shows an elevation of +17 micrometers, corresponding to stage 2. The overall stage is determined by the most severe parameter, which in this case is the posterior elevation."
+},
+{
+  "image_filename": "15.jpg",
+  "keratoconus_diagnosis": "Yes",
+  "justification": "The Pentacam maps display asymmetric inferior steepening on the axial curvature map with Kmax approximately 52 D, reduced central pachymetry to about 420 μm on the thickness map, and elevated posterior surface deviation indicating posterior ectasia, all hallmarks of keratoconus.",
+  "amsler_krumeich_stage": 3,
+  "amsler_krumeich_basis": "Mean central keratometry 50-55 D, central thickness 300-400 μm (thinnest 420 μm suggests proximity), no scarring evident; topographic and pachymetric changes align with stage 3.",
+  "belin_abcd_overall_stage": 2,
+  "belin_abcd_basis": "A (anterior K >50 D), B (posterior elevation change >20 μm), C (thinnest <450 μm), D (minimal vision distortion assumed); overall stage determined by the highest parameter value of 2."
+}
+{
+  "image_filename": "16.jpg",
+  "keratoconus_diagnosis": "Yes",
+  "justification": "The provided Pentacam topography maps demonstrate characteristic features of keratoconus, including inferior steepening on the axial curvature map, central corneal thinning on the pachymetry map, and elevated posterior and anterior elevations indicative of ectasia.",
+  "amsler_krumeich_stage": 2,
+  "amsler_krumeich_basis": "Based on mean central keratometry of approximately 51 D and thinnest pachymetry of 450 μm, with no scarring visible, this corresponds to stage 2 according to the Amsler-Krumeich classification.",
+  "belin_abcd_overall_stage": 2,
+  "belin_abcd_basis": "The overall stage is 2, determined by the maximum grade among components: A (anterior radius ~6.8 mm, stage 2), B (posterior radius ~5.3 mm, stage 2), C (thinnest pachymetry 450 μm, stage 1), and D (visual acuity data not provided, assumed not worse than stage 2)."
+}
+{
+  "image_filename": "17.jpg",
+  "keratoconus_diagnosis": "Present",
+  "justification": "The Pentacam maps reveal characteristic signs of keratoconus, including inferior steepening on the axial curvature map, focal elevations on both anterior and posterior elevation maps indicative of corneal ectasia, and central/inferior corneal thinning on the pachymetry map. These findings align with diagnostic criteria for keratoconus, such as asymmetric astigmatism, increased corneal curvature, and reduced thickness.",
+  "amsler_krumeich_stage": 2,
+  "amsler_krumeich_basis": "Based on the Amsler-Krumeich classification, stage 2 is determined by moderate central keratometry values (approximately 48-53 D inferred from the axial map patterns), central corneal thickness between 400-200 μm (pachymetry map shows thinning to around 420 μm), and absence of central scarring.",
+  "belin_abcd_overall_stage": 2,
+  "belin_abcd_basis": "Using the Belin ABCD system, the overall stage is 2, with anterior radius of curvature (A) corresponding to stage II (>6.35 mm or <53 D), posterior radius (B) stage II (>5.15 mm), thinnest pachymetry (C) stage II (>400 μm at ~420 μm), and assuming distance visual acuity (D) stage II (<20/40), derived from the tomographic parameters in the maps."
+}
+{
+"image_filename": "18.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam report shows an asymmetric bowtie pattern on the axial curvature map with inferior steepening (Kmax 51.7 D at 37 degrees), elevated posterior corneal elevation on the back elevation map, and corneal thinning (thinnest pachymetry 435 μm, average 482 μm), which are characteristic findings indicative of keratoconus.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Central keratometry average approximately 46.4 D (Sim K1 47.5 D, Sim K2 45.3 D), but with Kmax 51.7 D fitting stage 2 criteria; no central scarring visible; central pachymetry around 482 μm, thinnest 435 μm, meeting the range of 400-499 μm for stage 2.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A (anterior radius of curvature): corresponds to stage II based on Kmax 51.7 D (~6.5 mm radius, <53 D); B (posterior radius of curvature): stage II indicated by posterior elevation abnormalities (~5.2 mm, <65.5 D); C (thinnest pachymetry 435 μm >400 μm): stage II; D (BCVA not provided, assumed <20/40 based on irregularity): overall maximum stage II."​
+}
+{
+"image_filename": "19.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam topographic maps display inferior corneal steepening with maximum keratometry values reaching approximately 47 D, irregular bow-tie pattern on the axial map, and subtle asymmetries in the anterior and posterior elevation maps, which are characteristic features indicative of keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Eccentric steepening observed with mean central keratometry less than 48.0 D and no evidence of scarring or significant thinning on the provided maps.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature in the central 3 mm zone corresponds to less than 48.0 D; posterior curvature and thinnest pachymetry appear above stage I thresholds based on the elevation and thickness maps showing no severe protrusion or thinning below 450 µm."​​
+}
+{
+"image_filename": "20.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps reveal characteristic signs of keratoconus, including inferior steepening on the anterior axial curvature map with a steep keratometry of 53.5 D, focal thinning on the pachymetry map with a minimum thickness of approximately 470 µm, and significant focal elevation on the posterior surface map, consistent with corneal ectasia.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Based on adapted Amsler-Krumeich criteria, the mean keratometry is approximately 48.5 D (calculated from flat 43.5 D and steep 53.5 D), which falls within the 48-53 D range for stage 2; thinnest pachymetry >400 µm; no visible scarring.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Parameter A (anterior radius of curvature in 3 mm zone on thinnest point) corresponds to stage 2 with equivalent keratometry around 53 D (radius ≈6.37 mm); parameter B (posterior radius) stage 2 due to marked posterior elevation abnormality suggesting equivalent >65.5 D; parameter C stage 1 with thinnest pachymetry >450 µm; parameter D not assessable from image (no visual acuity provided); overall stage determined by the highest individual parameter stage of 2.2."​​
+}
+{
+"image_filename": "22.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam topographic maps reveal skewed radial axis with inferior steepening on the anterior sagittal curvature map showing Kmax around 55 D, corneal thinning centrally to approximately 380 μm on the pachymetry map, and pronounced posterior elevation hump greater than 30 μm, indicative of ectatic corneal disorder like keratoconus.",​​
+"amsler_krumeich_stage": 3,
+"amsler_krumeich_basis": "Average central keratometry 52-55 D, thinnest corneal thickness 300-400 μm, absence of scarring; elevated K values and thinning support stage 3 classification.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A (anterior radius corresponding to K >52 D, stage 2), B (back elevation difference >25 μm, stage 2), C (pachymetry <400 μm, stage 2), D (best corrected vision assuming 20/40 or better, stage 1); overall stage is the maximum value of 2."​​
+}
+{
+"image_filename": "23.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The axial curvature map shows inferior steepening with maximum keratometry values reaching approximately 50D, indicating asymmetric astigmatism typical of keratoconus. The pachymetry map reveals central corneal thinning around 460µm, and both anterior and posterior elevation maps display positive elevations greater than 20µm in the inferior region, consistent with ectatic changes.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is less than 48D, inferior-superior asymmetry (I-S) exceeds 1.4D, central corneal thickness is above 400µm with no scarring evident, aligning with stage 1 criteria.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) in the 3mm zone around thinnest point is approximately 7.2mm (46.5-48.8D, stage 1); posterior radius (B) ~5.8mm (stage 1); thinnest pachymetry (C) 460µm (430-490µm, stage 1); no best-corrected visual acuity (D) data available, overall stage determined by the highest parameter stage of 1."​
+}
+{
+"image_filename": "24.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The provided Pentacam maps display characteristic signs of keratoconus, including inferior steepening and an asymmetric bowtie pattern in the axial curvature map, focal thinning in the pachymetry map with minimum thickness around 420 µm, and abnormal elevations in both anterior and posterior elevation maps suggesting ectatic changes.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "The maps indicate mean central keratometry (sim K average) approximately 50 D (less than 53 D), presumed refractive error in the range of 5-8 D based on steepening, absence of visible scarring, and minimum corneal thickness greater than 400 µm.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "The overall stage is determined by the highest individual parameter grade: Anterior radius of curvature (A) in stage 2 range (48-53 D equivalent), posterior radius (B) showing moderate steepening, thinnest pachymetry (C) 400-450 µm, with presumed distance visual acuity impact but not specified; worst parameter defines stage 2."​]
+}
+{
+"image_filename": "25.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive report displays irregular corneal topography with asymmetric bow-tie pattern in the anterior sagittal power map, inferior steepening, and changes in elevation and pachymetry maps indicative of ectatic changes consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry less than 48 D and inferior-superior steepening value less than 1.4 D, with no evidence of scarring, aligning with stage 1 criteria.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) between 7.25-7.45 mm and posterior radius of curvature (B) between 5.60-5.70 mm, with corneal thickness (C) greater than 400 μm at thinnest point and good best-corrected visual acuity (D), resulting in overall stage 1.."​
+}
+{
+"image_filename": "26.jpg",
+"keratoconus_diagnosis": "No",
+"justification": "The Pentacam 4 Maps Refractive report for the OS eye shows normal central keratometry values around 43.5 D, symmetric bowtie pattern on the axial map without inferior steepening, no significant elevation deviations on front and back elevation maps, and uniform pachymetry distribution without central thinning. These findings indicate a normal cornea without signs of ectasia or keratoconus.",​​​
+"amsler_krumeich_stage": 0,
+"amsler_krumeich_basis": "Mean K <48 D, no myopia/astigmatism indicative of ectasia, no central scarring, and central pachymetry >500 μm, consistent with normal cornea per Amsler-Krumeich criteria.",​
+"belin_abcd_overall_stage": 0,
+"belin_abcd_basis": "Anterior radius >7.25 mm (K <46.5 D), posterior radius >5.90 mm, thinnest pachymetry >490 μm, and presumed normal CDVA, all meeting Stage 0 criteria in Belin ABCD system.stem."​​
+}
+{
+"image_filename": "27.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show characteristic signs of keratoconus in the left eye (OS), including inferior steepening on the anterior sagittal curvature map with maximum keratometry (Kmax) approximately 48 D, positive protrusion on both anterior and posterior elevation maps relative to the best fit sphere (BFS), and inferior corneal thinning on the pachymetry map with thinnest point around 460 µm. Indices such as ISV >37 and abnormal elevation differences support the diagnosis of keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 based on mean central keratometry ≤48 D, no visible scarring, and thinnest pachymetry >400 µm observed in the maps.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Overall stage 1 as the maximum grade among parameters: A (anterior radius of curvature ~7.1 mm, stage 1), B (posterior radius ~5.8 mm, stage 1), C (thinnest pachymetry 460 µm, stage 1); D not assessable from image but does not elevate stage."​​]
+},
+{
+"image_filename": "28.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show classic signs of keratoconus including inferior paracentral steepening on the axial curvature map with maximum keratometry values around 52D, an asymmetric 'bow-tie' pattern, anterior and posterior elevation abnormalities exceeding 20μm above the best fit sphere centered on the thinnest point, and inferior corneal thinning with minimum pachymetry of 466μm.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry approximately 49.5D (between 48D and 53D), minimum corneal thickness 466μm (greater than 400μm), no central scarring visible.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature in 3mm zone on thinnest point approximately 6.8mm (corresponding to ~50D, stage II), posterior radius similarly indicative of stage II based on elevation maps showing significant posterior displacement, thinnest pachymetry 466μm (stage I), visual acuity not provided (assume stage II overall based on anatomical parameters)."​
+},
+{
+"image_filename": "29.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "Pentacam maps exhibit superior-inferior asymmetry with steep central cornea on axial sagittal map reaching Kmax of about 58 D, marked central thinning to 350 μm on pachymetry, and substantial posterior elevation exceeding 40 μm suggesting corneal ectasia typical of keratoconus.",​​
+"amsler_krumeich_stage": 4,
+"amsler_krumeich_basis": "Central keratometry >55 D, thinnest pachymetry <400 μm approaching stage 4 thresholds, potential early scarring not clearly visible but advanced topographic distortion and thinning indicate stage 4.",​​
+"belin_abcd_overall_stage": 3,
+"belin_abcd_basis": "A (anterior K >55 D, stage 3), B (posterior elevation >40 μm, stage 3), C (thinnest pach <400 μm, stage 3), D (assuming moderate vision impairment, stage 2); overall stage is the maximum of 3."​​
+},
+{
+"image_filename": "30.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the axial curvature front map with maximum keratometry values exceeding 48 D, central corneal thickness around 480 μm thinning to 460 μm inferotemporally, and posterior elevation asymmetry greater than 20 μm relative to the best fit sphere, indicative of ectatic change consistent with keratoconus.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean) is approximately 45.8 D (less than 48 D but borderline), thinnest corneal pachymetry is 460 μm (400-499 μm range), with no visible scarring; this aligns with Stage II criteria based on pachymetry despite Kmean fitting Stage I.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter A (anterior radius of curvature, 3 mm zone at thinnest): >7.05 mm (~47.8 D); Parameter B (posterior radius): >5.70 mm; Parameter C (thinnest pachymetry): 460 μm (>450 μm); Parameter D (assumed BCVA <20/20 based on irregularity); overall worst parameter is Stage I.."​​
+},
+{
+"image_filename": "31.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal curvature map with a maximum keratometry (Kmax) of 48.5 D, which exceeds normal values. The pachymetry map indicates a thinnest corneal thickness of 475 μm, below the normal range of >490 μm. The posterior elevation map demonstrates significant posterior surface elevation greater than 20 μm, indicative of ectatic change consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is estimated below 48 D based on the topography (Kmax 48.5 D with flatter meridians around 43 D), no central scarring visible, and minimal apical corneal thickness of 475 μm greater than 400 μm, meeting criteria for Stage I.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter A (anterior radius of curvature in 3 mm zone on thinnest point) corresponds to approximately 47.5 D (radius ~7.1 mm), stage 1; Parameter B (posterior radius) shows early steepening consistent with stage 1; Parameter C (thinnest pachymetry 475 μm) is stage 1; No visual acuity data provided for Parameter D. Overall stage is the maximum of ABC parameters: 1."​
+},
+{
+"image_filename": "32.jpg",
+"keratoconus_diagnosis": "Yes, subclinical keratoconus",
+"justification": "The Pentacam 4-map display shows inferior steepening in the axial sagittal front refractive map with a maximum keratometry (Kmax) of 45.59 D and minimum of 42.04 D, indicating irregular astigmatism typical of early keratoconus. Anterior and posterior elevation maps reveal focal elevations consistent with ectasia, and the pachymetry map demonstrates a thinnest corneal thickness of 528 µm without significant central thinning. These findings align with subclinical keratoconus patterns on Pentacam tomography.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean) approximately 43.8 D (calculated as average of max and min K values), below 48 D threshold for stage 1; thinnest corneal thickness 528 µm, above 500 µm; no evidence of scarring.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter C (thinnest pachymetry) 528 µm indicates stage 0 (>490 µm). Parameter A (anterior radius of curvature, estimated from Kmax 45.59 D ≈ 7.40 mm in 3 mm zone) suggests stage 1 (6.75-7.25 mm or 46.5-50 D equivalent). Parameters B and D not directly available but assumed non-advanced based on maps; overall stage is the maximum value, here 1."​6]
+},
+{
+"image_filename": "33.jpg",
+"keratoconus_diagnosis": "Keratoconus present (left eye, OS).",
+"justification": "Pentacam shows marked asymmetric inferior/paracentral steepening with Kmax≈89.4 D and a focal cone on axial curvature; the corneal thickness map demonstrates advanced focal thinning with thinnest pachymetry ≈222 µm; anterior and posterior elevation maps show a central positive ‘island’ consistent with ectasia; minimal radius values are very small (e.g., Rmin front ≈3.78 mm), all of which are classic for advanced keratoconus.",
+"amsler_krumeich_stage": 4,
+"amsler_krumeich_basis": "Stage IV due to very thin cornea (thinnest ≈222 µm, i.e., <300 µm) with very steep keratometry (Kmax≈89.4 D), consistent with advanced disease regardless of refraction/scar details.",
+"belin_abcd_overall_stage": 4,
+"belin_abcd_basis": "A4: very steep anterior curvature around the thinnest point (implied by Kmax≈89.4 D and very small anterior radius); B4: marked posterior steepening with a positive elevation island; C4: thinnest pachymetry ≈222 µm (≤300 µm); D: distance BCVA not provided, so not graded; overall stage taken as the highest of A–C (Stage 4)."
+},
+{
+"image_filename": "34.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show classic signs of keratoconus including inferior steepening and skewed bow-tie pattern on the axial curvature map, positive elevation on both anterior and posterior elevation maps relative to the best fit sphere, and inferior corneal thinning on the pachymetry map.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry approximately 49-50 D, no evidence of central scarring, and thinnest pachymetry around 420 µm, consistent with stage II criteria.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) in the 3 mm zone around thinnest point corresponds to stage 2 (>6.35 mm or <53 D), posterior radius (B) stage 2 (>5.15 mm or <65.5 D), thinnest pachymetry (C) stage 2 (>400 µm), with overall stage determined by the highest individual parameter stage; no visual acuity data available but structural changes indicate stage 2.."​​
+},
+{
+"image_filename": "35.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps indicate mild inferior steepening on the anterior sagittal curvature with Kmax approximately 46 D, central pachymetry around 480 μm showing slight thinning, and minor posterior elevation less than 15 μm, suggestive of early keratoconus changes.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Central keratometry 45-48 D, central thickness >500 μm but thinnest 480 μm, no scarring; early topographic asymmetry supports stage 1.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior K 44.5-48 D, stage 1), B (posterior elevation <15 μm, stage 1), C (pachymetry >450 μm, stage 0-1), D (good visual acuity assumed, stage 0); overall stage 1."​​
+},
+{
+"image_filename": "36.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam images show mild asymmetric steepening in the inferior region on the axial curvature map with Kmax around 47 D, central corneal thickness of approximately 490 μm on the pachymetry map, and subtle posterior elevation changes under 20 μm, consistent with subclinical or early keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Central keratometry 45-52 D, thinnest pachymetry >400 μm, no scarring; topographic irregularity indicates stage 1.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius 7.05-7.65 mm or K 45-48 D, stage 1), B (posterior radius 5.70-6.25 mm, stage 1), C (thinnest pachymetry 450-475 μm, stage 1), D (no significant distortion, stage 0); overall stage 1."​​
+},
+{
+"image_filename": "37.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive display for the right eye (OD) shows characteristic signs of keratoconus, including asymmetric bow-tie pattern with inferior steepening on the axial curvature map, greater posterior elevation compared to anterior elevation (with the posterior float map indicating a more pronounced inferotemporal displacement), and central corneal thinning visible on the pachymetry map.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Km) approximately 47 D (<48 D), thinnest pachymetry (Pmin) approximately 470 μm (>450 μm but <500 μm), no evidence of scarring; these values align with stage 1 criteria featuring eccentric steepening without advanced thinning or scarring.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A1 (anterior radius of curvature >7.05 mm or <48.0 D), B1 (posterior radius of curvature >5.70 mm or <59.25 D), C1 (thinnest pachymetry 451-490 μm), D undetermined (no visual acuity provided); overall stage is the maximum of individual parameters, resulting in stage 1."​
+},
+{
+"image_filename": "38.jpg",
+"keratoconus_diagnosis": "Present (Subclinical/Early)",
+"justification": "The Pentacam maps for the OS eye show inferior steepening in the axial curvature map with Kmax approximately 46 D, central pachymetry of 518 μm but thinnest point around 480 μm inferiorly, and posterior elevation exceeding 20 μm indicating early ectatic changes consistent with subclinical keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Kmax 46 D (≤48 D for stage 1) and thinnest corneal thickness 480 μm (≥400 μm for stage 1), no scarring visible.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A: anterior radius >7.05 mm (K <48 D), B: posterior radius >5.70 mm (K <59 D), C: thinnest pachymetry >450 μm; D not assessable from image but overall stage 1 based on tomographic parameters.s."
+},
+{
+"image_filename": "39.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps demonstrate inferior steepening on the anterior axial curvature map with Kmax approximately 50 D, central corneal thinning to about 430 μm on the pachymetry map, and notable posterior surface elevation around 25 μm, characteristic of keratoconus.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Central keratometry 48-52 D, thinnest corneal thickness 400-450 μm, no evident scarring; combination of steepening and thinning confirms stage 2.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A (anterior K 48-52 D, stage 2), B (posterior elevation 20-30 μm, stage 2), C (pachymetry 400-450 μm, stage 2), D (mild distortion assumed, stage 1); overall stage is maximum of 2."​​
+},
+{
+"image_filename": "40.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam topography shows inferior steepening with maximum anterior keratometry (Kmax) of 46.6 D, central corneal thickness of 533 μm, and thinnest pachymetry of 481 μm, along with asymmetric bowtie pattern and posterior elevation abnormalities indicative of ectatic change.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry approximately 44.15 D (less than 48.0 D), central pachymetry 533 μm (greater than 500 μm), no visible scarring, and presumed mild refractive error based on topography.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius of curvature in 3 mm zone): approximately 7.24 mm (greater than 7.05 mm, less than 48.0 D); C (thinnest pachymetry): 481 μm (greater than 450 μm); B (posterior radius) and D (visual acuity) presumed consistent with early stage; overall determined by the highest individual grade."​]
+},
+{
+"image_filename": "41.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show a skewed asymmetric bowtie pattern on the anterior sagittal curvature map with inferior steepening (Kmax 45.3 D, astigmatism 2.9 D), elevated posterior surface (max elevation approximately 25 μm above BFS), and central corneal thickness of around 550 μm with minimum thickness near 510 μm indicating early ectatic changes consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 based on mean keratometry of 43.6 D (<48 D), central pachymetry ≥500 μm, and no scarring, with early topographic irregularity suggesting subclinical or forme fruste keratoconus.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Overall stage 1 derived from A (anterior RoC ~7.45 mm, stage 1), B (posterior RoC ~5.9 mm, stage 1), C (thinnest pachymetry 510 μm, stage 0-1), averaged; indicates mild disease centered on thinnest point."​
+},
+{
+"image_filename": "42.jpg",
+"keratoconus_diagnosis": "present",
+"justification": "The Pentacam maps show classic signs of keratoconus, including inferior steepening on the anterior sagittal curvature map with maximum keratometry (Kmax) approximately 48D, focal posterior elevation greater than 20μm indicating ectasia, and inferior corneal thinning on the pachymetry map with thinnest point around 460μm, confirming the diagnosis.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 based on mean central keratometry less than 48D, no visible scarring or significant ectasia on slit-lamp equivalent, and central corneal thickness greater than 400μm but less than 500μm, aligning with adapted Amsler-Krumeich criteria for early keratoconus.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Overall stage 1 determined by the worst parameter in the ABCD system: A (anterior radius of curvature) stage 1 (~7.3mm at thinnest point), B (posterior radius) stage 0 (~6.5mm), C (corneal thickness distribution) stage 1 (final D-value ~ -1.5), D (thinnest pachymetry) stage 1 (460μm), using Pentacam-derived metrics centered on the thinnest point."​​]
+},
+{
+"image_filename": "43.jpg",
+"keratoconus_diagnosis": "Absent",
+"justification": "The Pentacam 4 Maps show regular axial curvature with simulated keratometry values likely below 48 D, symmetric elevation maps without significant anterior or posterior elevation above normal thresholds (e.g., posterior best fit sphere elevation <20-30 μm), and normal pachymetric distribution with central thickness above 500 μm, indicating no signs of corneal ectasia or thinning characteristic of keratoconus.",​​
+"amsler_krumeich_stage": 0,
+"amsler_krumeich_basis": "No eccentric steepening, mean K <48 D, no myopia/astigmatism exceeding 5 D, and central thickness >500 μm, consistent with normal cornea rather than any stage of Amsler-Krumeich classification.",​
+"belin_abcd_overall_stage": 0,
+"belin_abcd_basis": "Anterior radius >7.25 mm, posterior radius >5.90 mm, thinnest pachymetry >490 μm, with normal distribution and no abnormal elevation or asymmetry on maps, yielding A0 B0 C0 for overall stage 0.."​​
+},
+{
+"image_filename": "44.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The anterior sagittal curvature map shows inferior steepening with colors shifting to warmer tones (yellow-orange-red) in the inferior paracentral region, indicative of ectatic change. The posterior elevation map (not fully visible but implied by the 4 Maps Refractive layout) likely shows corresponding posterior surface elevation excess. The corneal thickness map demonstrates central thinning with values estimated around 460 μm, supporting the diagnosis of keratoconus based on tomographic patterns consistent with ectasia.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Based on estimated mean keratometry (Kmean) of approximately 48 D from the anterior curvature map values (e.g., central readings around 48 D) and thinnest corneal pachymetry of about 460 μm, this corresponds to Stage 2 in the modified Amsler-Krumeich classification, where Kmean is 48-53 D and central thickness is 400-500 μm.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Using the Belin ABCD system, the anterior radius of curvature (A) in the 3 mm zone on the thinnest point is estimated at Stage 1 (R ~6.8-7.2 mm from curvature map), posterior (B) at Stage 2 (R ~5.5-5.75 mm inferred from elevation patterns), corneal thickness (C) at Stage 1 (thinnest ~440-489 μm), and visual acuity (D) not provided but assumed not advanced; the overall stage is the highest individual grade of 2."​]​
+},
+{
+"image_filename": "45.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "Markedly asymmetric inferior/paracentral cone with very steep anterior keratometry (K1≈74.3 D, K2≈77.1 D, Km≈75.7 D), thinnest pachymetry ≈352 µm on the thickness map, and high BFS-referenced elevations (front ≈+104 µm, back ≈+224 µm), which are characteristic of ectasia/keratoconus.",​​
+"amsler_krumeich_stage": 3,
+"amsler_krumeich_basis": "Stage 3 is defined by mean K >53 D with minimal/ thinnest pachymetry between 300–400 µm and no central scarring; the map shows Km≈75.7 D and thinnest ≈352 µm with no scarring noted, meeting stage 3 criteria.",​​
+"belin_abcd_overall_stage": 4,
+"belin_abcd_basis": "Using the ABCD thresholds centered on the thinnest point: A=4 because anterior curvature at the cone exceeds 55 D; B=4 given extreme posterior steepening consistent with advanced ectasia; C=3 because thinnest pachymetry is ~352 µm (300–400 µm range); D=undetermined (no BDVA provided); overall stage is taken as the worst structural stage among A–C, hence 4.."​​
+},
+{
+"image_filename": "46.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show characteristic signs of keratoconus, including inferior steepening on the anterior axial curvature map (warm colors indicating elevated keratometry values >48 D centrally and inferiorly), posterior elevation map with significant central elevation (>30 μm beyond best fit sphere), and pachymetry map revealing central thinning with thinnest point displaced inferiorly and thickness <450 μm. Additionally, the Belin/Ambrosio display likely shows elevated indices such as ISV >41 and BAD-D >2.6, confirming ectatic changes.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Based on adapted criteria: mean keratometry (Km) approximately 50 D (<53 D), central corneal thickness >400 μm (around 420 μm), no visible scarring, consistent with stage II.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) ~6.5 mm (stage II, <53 D), posterior radius (B) >5.15 mm (stage I), thinnest pachymetry (C) ~420 μm (stage II, >400 μm), visual acuity (D) not provided but anatomical parameters determine overall stage II as the highest individual grade."​]
+},
+{
+"image_filename": "47.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam axial curvature map displays an asymmetric bow-tie pattern with inferior steepening and Kmax of 48.3 D, which exceeds normal limits. The anterior and posterior elevation maps show focal elevations consistent with ectasia, particularly posteriorly. The pachymetry map indicates corneal thinning with a minimum thickness of approximately 470 μm, supporting the presence of keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean ≈ 45.9 D) is less than 48 D. No central corneal scarring is evident. Central corneal thickness is greater than 500 μm. Refractive error is presumed to be less than -5.00 D based on mild topographic changes.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A1: Anterior radius of curvature (ARC) in 3 mm zone centered on thinnest point ≈7.1 mm (>7.05 mm, equivalent to <48 D). B1: Posterior radius of curvature (PRC) >5.70 mm based on mild posterior changes. C1: Thinnest pachymetry 470 μm (>450 μm). D: Not assessable from image, but overall stage determined by highest component (A1). No scarring noted."​
+},
+{
+"image_filename": "48.jpg",
+"keratoconus_diagnosis": "Present (early/subclinical)",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal curvature map with red/orange zones indicating elevated keratometry values, an asymmetric bowtie pattern with vertical skewing, and inferior elevations on both anterior (max ~0.03 mm) and posterior (max ~0.10 mm) elevation maps relative to the best fit sphere, consistent with ectatic corneal changes diagnostic of early keratoconus. Pachymetry reveals a thinnest point of 506 μm inferiorly, supporting relative thinning in the ectatic region.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 based on estimated maximum keratometry of ~47.5 D (from color-coded inferior steepening on sagittal map, where red typically exceeds 47 D), central corneal thickness of ~529 μm (>500 μm), and absence of scarring.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Overall stage 1, determined as the maximum of individual parameters: A stage 1 (anterior radius of curvature in 3 mm zone at thinnest point estimated ~7.2 mm corresponding to ~47 D), B stage 1 (posterior radius ~5.8 mm inferred from significant posterior inferior elevation >0.06 mm suggesting posterior steepening >59 D), C stage 0 (thinnest pachymetry 506 μm >490 μm), D not available but assumed stage 0; highest is 1.."​​
+},
+{
+"image_filename": "49.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The axial curvature map shows an asymmetric bowtie pattern with inferior steepening (maximum keratometry of 48.3 D), indicative of ectatic change. The anterior elevation map reveals a localized island of positive elevation inferiorly. The pachymetry map demonstrates central thinning with a minimum thickness of 456 μm at the inferior cornea. The posterior elevation map exhibits more pronounced bulging compared to the anterior surface, supporting the diagnosis of keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is 46.8 D (≤48.0 D), with corneal astigmatism of 3.1 D and no evidence of scarring. These topographic findings align with stage 1 criteria, characterized by eccentric steepening without advanced refractive or scarring changes.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) approximates <48.0 D based on steep keratometry of 48.3 D (stage 1). Posterior radius of curvature (B) shows mild changes consistent with early disease (stage 1). Thinnest pachymetry (C) is 456 μm (>450 μm, stage 1). Distance visual acuity (D) is unavailable, but overall maximum parameter stage is 1."​]
+},
+{
+"image_filename": "50.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal curvature map with a maximum keratometry of 47.0 D, inferior corneal thinning to 480 μm on the pachymetry map, anterior elevation of 22.0 μm above the best fit sphere, and posterior elevation of -15.0 μm below the best fit sphere, all indicative of early ectatic changes consistent with keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is approximately 45.25 D (calculated from flat 43.5 D and steep 47.0 D), which is less than 48.0 D; eccentric inferior steepening is present without visible scarring; corneal thinning to 480 μm supports early disease.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (ARC) approximates 7.18 mm (equivalent to 47 D, stage 1); posterior radius of curvature (PRC) suggests mild change (stage 0-1 based on -6 D average); thinnest pachymetry 480 μm (stage 1); best-corrected visual acuity not provided but anatomical parameters indicate overall stage 1."​​
+},
+{
+"image_filename": "51.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps display characteristic signs of keratoconus, including inferior steepening on the axial curvature map with elevated keratometric values around 48-50 D, focal elevation on both anterior and posterior elevation maps indicating corneal protrusion, and progressive thinning on the pachymetry map with minimum thickness approximately 450 μm centrally/inferiorly, consistent with ectatic changes.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Eccentric steepening is evident on the axial map; estimated mean central keratometry (Kmean) is between 48.0 and 53.0 D based on the color-coded steepening patterns; no central scarring observed; refractive data not fully specified but compatible with moderate astigmatism.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior (A): Steepest anterior curvature in 3 mm zone around thinnest point ~50 D (>48 D, <53 D, stage II); Posterior (B): Focal posterior elevation suggesting posterior radius >5.15 mm but <5.70 mm (stage II); Thickness (C): Thinnest pachymetry ~450 μm (>400 μm, <450 μm wait, actually >450 for I, >400 II, so stage II); Visual acuity (D) not provided, assumed stage 0-1; overall stage is the maximum value of individual components, which is II."​​]
+},
+{
+"image_filename": "52.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps display characteristic features of keratoconus, including inferior steepening on the axial curvature front map (with central keratometry around 48 D and likely Kmax exceeding 50 D based on red zones), central and inferior corneal thinning on the pachymetry map (thinnest pachymetry estimated at approximately 450-480 μm), and elevated posterior corneal surface on the elevation posterior map, indicative of ectatic changes.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Based on estimated mean central keratometry of 48-50 D, thinnest corneal thickness of 450-480 μm, absence of visible scarring, and typical inferior steepening pattern consistent with moderate ectasia (though refraction data is unavailable, topographic signs align with stage 2 criteria).",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) approximately 7.05-7.25 mm (<48 D) centered on thinnest point, posterior radius (B) likely >5.70 mm with mild posterior elevation, thinnest pachymetry (C) >450 μm, and assuming best-corrected visual acuity (D) around 20/25-20/40 based on mild topographic changes (overall stage determined by the highest parameter, here A and C suggesting stage 1)."​​]
+},
+{
+"image_filename": "53.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam report shows inferior steepening on the anterior sagittal curvature map, abnormal posterior elevation with protrusion beyond the best fit sphere, and localized corneal thinning on the pachymetry map, all indicative of keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Eccentric steepening with mean central keratometry readings below 48 D, no central scarring, and central corneal thickness above 400 μm.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature >7.05 mm (<48.0 D), posterior radius >5.70 mm (<59.25 D), thinnest pachymetry >450 μm, consistent with early changes centered on the thinnest point.t."
+},
+{
+"image_filename": "54.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior corneal steepening with Kmax of 47.5 D, which exceeds normal values (typically <47 D). Corneal thickness at the thinnest point is 475 µm, below the normal threshold (>490 µm). Posterior elevation maximum is 27 µm, indicating significant posterior surface elevation (normal <15-20 µm). Anterior elevation maximum is 29 µm. These findings are consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is approximately 44.3 D (K1 43.1 D, K2 45.5 D), less than 48 D. Kmax is 47.5 D, borderline but within stage 1 criteria. No evidence of scarring or advanced astigmatism from the maps. Pachymetry of 475 µm supports early ectasia without progression to higher stages.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature estimated from Kmax 47.5 D ≈7.11 mm, corresponding to stage 1 (>7.05 mm or <48 D). Thinnest pachymetry 475 µm indicates stage 1 (>450 µm). Posterior elevation of 27 µm suggests posterior involvement consistent with stage 1 (B >5.70 mm). No visual acuity data provided, but overall features align with early disease stage 1."​]
+},
+{
+"image_filename": "55.jpg",
+"keratoconus_diagnosis": "Yes (subclinical/early stage)",
+"justification": "The Pentacam 4 Maps Refractive Power report shows inferior steepening on the anterior sagittal curvature map with simulated keratometry values around 43.5-44.9 D, suggesting early ectatic changes; posterior sagittal map indicates deviations around -15.3 to -15.9 D; front elevation up to 16 μm and back elevation up to -16 μm, which are borderline abnormal; pachymetry minimum of 486 μm is reduced compared to normal >490-500 μm, supporting subclinical keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry approximately 44 D (<48 D but with ectatic pattern); no scarring visible; central corneal thickness 486 μm (400-500 μm range, though strictly <500 μm with low K suggests suspect, adapted for early changes); myopia/astigmatism not specified but inferred mild.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A: 0 (anterior radius of curvature >7.25 mm equivalent to K <46.5 D); B: 0 (posterior radius >5.90 mm based on back surface deviations not exceeding stage 1 thresholds); C: 1 (thinnest pachymetry 486 μm, 450-490 μm); D: Not available (no visual acuity data); overall stage determined by highest parameter (C=1).."​​
+},
+{
+"image_filename": "56.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam topography shows a negative Q-value of -0.02, indicating altered corneal asphericity. The anterior sagittal map demonstrates inferior steepening with dioptric values increasing from approximately 43.5 D centrally to higher values inferiorly, suggestive of early ectatic change. Pachymetry map shows relatively preserved central thickness but possible inferior thinning, consistent with early keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Km) is below 48 D (approximately 44-45 D based on map), with no evidence of scarring or significant opacity, and corneal thickness appears above 500 µm. This meets criteria for stage 1.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter A: Anterior radius >7.05 mm (equivalent to <48.0 D, matching map values). Parameter B: Posterior radius likely >5.70 mm (no significant posterior elevation abnormality visible). Parameter C: Thinnest pachymetry >450 µm (estimated from map). Parameter D: Not specified, assumed normal. Overall stage determined by the highest parameter grade, here stage 1."​]
+},
+{
+"image_filename": "57.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show characteristic features of keratoconus, including inferior steepening on the anterior sagittal curvature map, focal posterior elevation exceeding 20 μm on the posterior elevation map relative to the best fit sphere, and inferior corneal thinning on the pachymetry map with a thinnest point around 470 μm. These tomographic abnormalities confirm the presence of keratoconus, as posterior surface changes and asymmetric thinning are key diagnostic indicators beyond anterior surface alone.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "The mean keratometry (Kmean) is 43.4 D, which is below 48 D; the central corneal thickness is approximately 510 μm, above 500 μm; and no central scarring is evident, meeting criteria for stage 1 keratoconus. This staging relies on anterior surface keratometry and apical thickness measurements, with stage 1 defined by Kmean ≤48 D and thickness ≥500 μm without scarring.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "The Belin ABCD display indicates stage 1 overall, with anterior (A) radius corresponding to approximately 46 D at the thinnest point (stage 1), posterior (B) near normal but with mild abnormality (stage 0-1), corneal thickness (C) at 470 μm (stage 1), and no visual acuity data for D, averaged to stage 1. This system stages based on thinnest point metrics: A stage 1 for Rmin 6.91-7.45 mm (~45-49 D), C stage 1 for 440-490 μm thickness.s."​​
+},
+{
+"image_filename": "58.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show focal central elevation on the anterior and posterior corneal surfaces, inferior steepening on the axial curvature map with an estimated Kmax around 52D, and central corneal thinning with pachymetry approximately 430 μm, indicative of keratoconus. These findings align with tomographic signs of ectasia, including elevated posterior surface deviation greater than 15 μm and anterior greater than 20 μm.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Based on the adapted Amsler-Krumeich criteria using tomographic data: maximum keratometry (Kmax) between 48-53D (~52D observed), thinnest pachymetry between 400-500 μm (~430 μm), no visible scarring, confirming stage 2.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Using Belin ABCD system: Anterior radius (Rf) ~6.5 mm (stage 2, corresponding to K ~52D at thinnest), posterior radius (Rb) estimated stage 2 based on posterior elevation, thinnest pachymetry 430 μm (stage 2, 400-450 μm), distance visual acuity not available but overall maximum grade is 2; this incorporates tomographic data centered on thinnest point.nt."​​
+},
+{
+"image_filename": "59.jpg",
+"keratoconus_diagnosis": "Absent",
+"justification": "The Pentacam maps show a normal corneal topography with symmetric power distribution on the axial map, no significant inferior steepening, central corneal thickness around 520 μm, and thinnest pachymetry greater than 500 μm. Elevation maps reveal no abnormal protrusions anteriorly or posteriorly, indicating no ectatic changes consistent with keratoconus.",​
+"amsler_krumeich_stage": 0,
+"amsler_krumeich_basis": "Mean keratometry (Km) approximately 42 D (<48 D), central pachymetry >500 μm, no scarring or refractive errors suggestive of ectasia, aligning with normal (stage 0) rather than stage 1 criteria which require Km <48 D with other suspicious features.",​​
+"belin_abcd_overall_stage": 0,
+"belin_abcd_basis": "Anterior radius of curvature >7.25 mm (equivalent to <46.5 D), posterior radius >5.90 mm (<57.25 D), thinnest pachymetry >490 μm, and no visual acuity impairment reported; all parameters meet stage 0 criteria with no ectatic features."​​
+},
+{
+"image_filename": "60.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps display classic signs of keratoconus, including inferior steepening and an asymmetric bow-tie pattern in the axial curvature front map, a floating island appearance in the elevation maps, and a decentered thinnest point in the corneal thickness map.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Estimated mean central keratometry <48.0 D from axial map, no visible scarring, and central corneal thickness >400 μm from pachymetry map, consistent with Stage I criteria.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature >7.05 mm (equivalent to <48 D), posterior radius likely >5.70 mm based on elevation back map, thinnest pachymetry >450 μm; visual acuity not provided but assumed mild based on maps; overall highest grade is 1."​
+},
+{
+"image_filename": "61.jpg",
+"keratoconus_diagnosis": "Yes (early/mild stage)",
+"justification": "The Pentacam 4 Maps Refractive Power report displays asymmetric inferior steepening on the anterior sagittal curvature map with Sim K values of 45.2 D (flat) and 47.1 D (steep), indicating early ectasia; posterior elevation shows back surface deviation up to -18 μm; front elevation max 20 μm; minimum pachymetry at 462 μm, which is thinned; corneal thickness map reveals central thinning, consistent with mild keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry ~46.2 D (<48 D); astigmatism inferred ~2 D (≤3 D for stage 1); no scarring; central pachymetry 462 μm (typically >400 μm for stage 1, but adapted for early progression without scarring).",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A: 0 (anterior radius >7.05 mm, K <48 D); B: 1 (posterior radius ~5.60 mm, approaching <5.70 mm threshold based on deviations); C: 1 (thinnest pachymetry 462 μm, 450-490 μm range); D: Not available (no VA data); overall stage 1 as highest parameter (B/C=1).C=1)."​​
+},
+{
+"image_filename": "62.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show inferior steepening on the axial curvature map with a maximum keratometry (Kmax) of 47.8 D, a negative asphericity quotient (Q = -0.12) indicating corneal asymmetry, and a minimum corneal thickness of 468 μm, which are characteristic signs of keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry of 42.5 D is less than 48 D, no central scarring is evident, and the mean pachymetry is 542 μm exceeding 500 μm, consistent with stage 1 despite the thinned minimum at 468 μm.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "The thinnest pachymetry (C) is 468 μm (stage 1: 430-490 μm); anterior radius inferred from max K 47.8 D suggests borderline stage 0-1 (A); posterior elevation shows deviations suggestive of early posterior involvement (B stage 1); no visual acuity data (D), but overall anatomical changes indicate stage 1."​​1]
+},
+{
+"image_filename": "63.jpg",
+"keratoconus_diagnosis": "Definite keratoconus (OS)",
+"justification": "Marked irregular astigmatism with asymmetric bow‑tie and skewed axes on axial map; very steep anterior cornea with Kmax ≈ 69.3 D and K1/K2 ≈ 53.7/63.0 D with ~9.4 D astigmatism; thinnest pachymetry ≈ 393 µm decentered inferiorly; elevated anterior/posterior elevation peaks of about +78 µm and +128 µm respectively; all consistent with ectasia",
+"amsler_krumeich_stage": 3,
+"amsler_krumeich_basis": "Kmax > 53 D (≈ 69.3 D) with myopic/astigmatic error ~9.4 D and minimal pachymetry between 300–400 µm (~393 µm); no scarring information provided, so staged by K and pachymetry as Stage III",
+"belin_abcd_overall_stage": 4,
+"belin_abcd_basis": "A4: anterior radius in 3‑mm zone effectively < 6.15 mm (inferred from very steep curvature; front Rmin ≈ 4.87 mm / Kmax ≈ 69.3 D). B4: posterior radius < 4.95 mm (back Rmin ≈ 4.07 mm). C3: thinnest pachymetry ≈ 393 µm (300–400 µm range). D: best‑corrected distance VA not available on this map; overall stage taken as the worst structural parameter = 4"
+},
+{
+"image_filename": "64.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show characteristic signs of keratoconus, including inferior steepening on the axial curvature map with maximum keratometry (Kmax) approximately 49 D, irregular bowtie pattern, negative asphericity (Q-value), abnormal posterior elevation greater than 20 μm at the thinnest point, and relative thinnest pachymetry of about 460 μm, which is below normal thresholds and indicates corneal thinning. These findings align with diagnostic criteria for keratoconus presence, such as Kmax >48 D, posterior elevation abnormality, and pachymetric asymmetry.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Based on mean central keratometry of approximately 45.7 D (≤48 D), central pachymetry around 500 μm (≥500 μm), no visible scarring, and inferred refractive astigmatism less than 2 D from the topography, this corresponds to Stage 1 according to the Amsler-Krumeich classification.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (ARC) at thinnest point corresponds to <48 D (Stage I), posterior radius of curvature (PRC) approximately 5.8 mm (between 5.70 mm and 5.90 mm, Stage I), thinnest pachymetry 460 μm (>450 μm, Stage I), and visual acuity data not provided but topography supports early disease; overall Stage I as the maximum individual component stage.age."​​
+},
+{
+"image_filename": "65.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps display characteristic signs of keratoconus including inferior steepening on the axial curvature map with maximum simulated keratometry (Kmax) of 48.9 D, asymmetric bow-tie pattern, positive elevation on the front surface up to +15 μm, more pronounced posterior elevation up to +25 μm indicating posterior ectasia, and inferior corneal thinning on the pachymetry map.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 is determined by mean central keratometry (Kmean) of 45.1 D which is less than 48 D, maximum K of 48.9 D suggesting early steepening, no visible central scarring, and inferred central pachymetry around 460-500 μm based on map; refraction details not provided but assuming myopia/astigmatism ≤5 D from refractive map context.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A: Anterior radius of curvature approximately 7.03 mm (equivalent to ~48 D in 3 mm zone) corresponding to stage 1; B: Posterior radius inferred from back elevation abnormality around 5.5-5.7 mm stage 2; C: Thinnest pachymetry approximately 460 μm stage 1; D: Visual acuity not provided, assumed stage 0-1; overall stage is the maximum grade of 2."​​
+},
+{
+"image_filename": "66.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show classic signs of keratoconus, including inferior steepening on the anterior sagittal curvature map with a maximum keratometry (Kmax) of 48.5 D, focal thinning on the pachymetry map with thinnest point (Pmin) of 437 μm inferiorly (compared to normal >480 μm), and abnormal posterior elevation with focal protrusion exceeding best fit sphere in the inferior region, indicating posterior ectasia.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Based on estimated mean central keratometry of approximately 45.75 D (from flat K ~43 D and steep K 48.5 D, below 48 D threshold for stage 1), central pachymetry of 517 μm (mildly reduced but >=500 μm typical for stage 1), and no visible scarring on the maps.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "C stage 2 (Pmin 437 μm, range 430-459 μm for stage 2); A stage 1 (anterior radius in 3 mm zone on thinnest point estimated ~7.15 mm, range 6.99-7.27 mm); B stage 2 (posterior radius estimated ~5.45 mm based on pronounced posterior elevation, range for stage 2 ~5.25-5.50 mm); D stage 0 (no visual acuity data provided, distribution index assumed normal); overall stage is the maximum individual stage of 2."​
+},
+{
+"image_filename": "67.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal topography with a skewed bowtie pattern, elevated posterior elevation inferotemporally exceeding normal thresholds, and central corneal thinning with thinnest pachymetry below 450 μm, consistent with keratoconus features.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry approximately 49-52 D, central corneal thickness 442 μm, no evidence of scarring on the maps.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) in 3 mm zone around thinnest point ~6.5 mm (equivalent ~52 D), posterior radius (B) ~5.5 mm (equivalent ~65 D), thinnest pachymetry (C) 442 μm, best corrected visual acuity not specified but inferred from topographic severity."
+},
+{
+"image_filename": "68.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show characteristic features of keratoconus including inferior steepening on the axial curvature map (Kmax approximately 49 D), central thinning on the pachymetry map (thinnest corneal thickness approximately 450 μm), and elevated posterior elevation indicative of posterior surface involvement.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry between 45-48 D, no visible scarring, central corneal thickness >450 μm, consistent with stage 1 criteria adapted for topographic data.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter A (anterior radius >7.05 mm or <48 D), Parameter B (posterior radius >5.70 mm or <59.25 D), Parameter C (thinnest pachymetry >450 μm); overall stage determined by the highest individual parameter stage."​
+},
+{
+"image_filename": "69.jpg",
+"keratoconus_diagnosis": "absent",
+"justification": "The topography maps demonstrate symmetric bow-tie pattern without skew or significant inferior steepening in the anterior axial curvature map. The elevation maps show minimal deviations from best fit sphere, with no prominent posterior elevation suggestive of ectasia. Pachymetry map indicates uniform thickness without focal thinning, and refractive power maps align with normal corneal contour. The Q-value of -0.12 is within normal prolate range, supporting absence of keratoconus features.",​​
+"amsler_krumeich_stage": 0,
+"amsler_krumeich_basis": "Mean central keratometry (Sim K) is below 48 D based on scale and color distribution in axial map indicating flat K around 42-43 D. Central corneal thickness appears above 500 μm from pachymetry map visualization. No corneal scarring or refractive changes indicative of ectasia. Meets criteria for no or preclinical stage.",​​
+"belin_abcd_overall_stage": 0,
+"belin_abcd_basis": "Anterior radius of curvature (A) >7.25 mm (<46.5 D) inferred from anterior maps. Posterior radius (B) >5.90 mm (<57.25 D) from posterior elevation symmetry. Thinnest pachymetry (C) >490 μm from pachymetric distribution. Best-corrected visual acuity (D) assumed normal without reported loss. All parameters normal, overall stage 0."​​]​
+},
+{
+"image_filename": "70.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive display shows characteristic inferior steepening on the anterior axial curvature map with maximum keratometry (Kmax) approximately 48.2 D, focal inferior paracentral thinning on the pachymetry map with minimum corneal thickness of 445 μm, and a central posterior elevation deficit greater than anterior on the elevation maps, consistent with ectatic corneal changes indicative of keratoconus.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Adapted Amsler-Krumeich staging classifies this as stage 2 based on maximum keratometry <53 D and minimum corneal thickness >400 μm, reflecting moderate ectatic progression without scarring.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Belin ABCD overall stage 2 is determined by averaging component stages: anterior (A) radius ≈7.00 mm (stage 2, Kmax 48.2 D), posterior (B) radius ≈5.60 mm (stage 2), thinnest pachymetry (C) 445 μm (stage 2), and assuming distance visual acuity (D) stage 1, focusing on thinnest point measurements.nts."​
+},
+{
+"image_filename": "71.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps display characteristic signs of keratoconus, including inferior steepening on the axial curvature map with elevated keratometry values exceeding 48 D inferiorly, asymmetric bowtie pattern, positive 'island' elevation on the anterior and posterior elevation maps relative to the best fit sphere, and inferior corneal thinning on the pachymetry map.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean) is approximately 46 D (<48 D), central pachymetry is approximately 520 μm (>500 μm), no central scarring observed, consistent with stage 1 ectasia.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature at thinnest point (A) corresponds to stage 1 (K ~47 D, Rc ~7.15 mm), posterior radius (B) stage 1 (abnormal posterior elevation <20 μm but indicative of early ectasia), thinnest pachymetry (C) 480 μm (stage 1), best corrected visual acuity (D) not available but assumed mild based on topography; overall stage is the maximum of individual stages."​​
+},
+{
+"image_filename": "72.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal curvature map with maximum anterior keratometry (Kmax) of approximately 51.4 D and mean K of about 48.4 D, asymmetric bow-tie pattern, central corneal thickness of 486 µm with thinner peripheral areas, and posterior corneal elevation indicating ectasia typical of keratoconus.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry is approximately 48.4 D, which falls within stage II (48-53 D), with no visible scarring and central thickness >400 µm.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) in the 3 mm zone on the thinnest point corresponds to >48 D (stage II threshold), posterior radius (B) appears consistent with early ectasia around 59 D, thinnest pachymetry (C) >400 µm (stage II), visual acuity (D) not provided but topographic parameters indicate overall stage II."
+},
+{
+"image_filename": "73.jpg",
+"keratoconus_diagnosis": "Yes (early/subclinical)",
+"justification": "The Pentacam 4 Maps Refractive report shows a Kmax of 45.3 D with likely inferior steepening on the axial map, combined with a thinnest pachymetry of 452 μm, which is below normal range (typically >490-500 μm), indicating early corneal ectasia consistent with subclinical keratoconus. The front and back elevation maps show mild abnormalities in the elevation differences (front max-min ~2.6 units, back ~3.1 units), supporting asymmetry suggestive of ectasia without advanced changes.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean = 44.3 D) is below 48 D, astigmatism 2.0 D (<5 D), thinnest pachymetry 452 μm (adapted as >400 μm for stage 1, with no scarring evident), fitting early stage criteria adapted for tomography.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius ~7.45 mm / 45.3 D, stage 0); B (posterior radius estimated >5.9 mm based on BFS -5.8 D and small elevation difference <15 μm, stage 0); C (thinnest 452 μm, stage 1); D (not available from report); overall stage 1 driven by thickness and mild anterior steepening.ing."​
+},
+{
+"image_filename": "74.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The axial curvature front map displays an asymmetric bowtie pattern with inferotemporal steepening (Kmax approximately 50.3 D), the refractive power front map confirms irregular astigmatism, the corneal thickness map reveals central thinning (minimum pachymetry approximately 460 μm), and the elevation front map shows a localized protrusion indicative of corneal ectasia consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Eccentric steepening with mean central keratometry <48 D (approximately 44.7 D), no visible scarring or striae on the maps, and slightly reduced but not severely thinned pachymetry (460 μm).",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) at thinnest point corresponds to stage 1-2 based on local steepening (~50 D equivalent RoC ~6.75 mm), posterior curvature (B) likely stage 2 given ectasia, thinnest pachymetry (C) 460 μm indicates stage 1, visual acuity (D) unavailable; overall stage reflects combined anatomical changes centered on thinnest point."​2]
+},
+{
+"image_filename": "75.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show characteristic features of keratoconus including inferior steepening on the axial curvature map with a maximum keratometry of 53.3 D and an asymmetric bow-tie pattern. Anterior elevation map displays a positive island configuration with a maximum elevation of approximately 44 μm superior to the best fit sphere. Posterior elevation map indicates ectatic changes with a maximum elevation of about 20 μm. Pachymetry map reveals focal inferior thinning with a minimum corneal thickness of 460 μm.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry is approximately 51 D (within 48-53 D for stage 2), thinnest pachymetry of 460 μm (consistent with stage 2 as >400 μm), no evidence of central scarring.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) in the 3 mm zone at thinnest point approximates 6.49 mm (equivalent to <53 D, stage 2). Posterior radius of curvature (B) shows mild steepening consistent with stage 1-2 based on elevation data. Thinnest pachymetry (C) of 460 μm (>450 μm, stage 1). Visual acuity (D) not provided, but overall stage determined by the highest parameter (A=2)."​​11]
+},
+{
+"image_filename": "76.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the axial curvature front map with maximum keratometry (Kmax) around 48.3 D, positive elevation on the posterior surface exceeding 20 µm inferiorly, and relative central corneal thinning with thinnest pachymetry approximately 485 µm, indicative of early ectatic changes consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Kmax 48.3 D (<49 D for stage 1), thinnest corneal thickness 485 µm (>400 µm), no visible scarring on the maps, meeting criteria for stage 1.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius ~7.0 mm corresponding to ~48 D, stage 1), B (posterior elevation suggesting radius >5.70 mm, stage 0-1), C (thinnest pachymetry 485 µm >450 µm, stage 1); overall stage 1 as the maximum among A, B, C parameters."​24]
+},
+{
+"image_filename": "77.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps reveal classic signs of keratoconus, including an asymmetric inferior steepening on the anterior axial curvature map with a skewed 'bowtie' pattern and Kmax of 52.5 D, inferior corneal thinning on the pachymetry map with minimum thickness around 420 μm, and positive central elevations on both anterior and posterior elevation maps indicating ectatic protrusion.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "The classification relies on mean central keratometry, refractive error, scarring, and thinnest pachymetry. Here, the steep keratometry (Kmax 52.5 D, mean approximately 47 D from simulated K values) and thinnest pachymetry of ~420 μm fit stage II criteria (mean K 48-53 D, pachymetry 400-500 μm, no scarring evident).",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "The Belin ABCD system grades A (anterior RoC ~7.1 mm in 3 mm zone, stage 1), B (posterior BFS elevation ~18-20 μm, stage 1), C (thinnest pachymetry 420 μm, stage 1), and D (assuming logMAR 0.1 for mild vision impact, stage 1); overall stage is the rounded average of 1."​​
+},
+{
+"image_filename": "78.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam topography reveals classic signs of keratoconus, including inferior steepening and skewed bowtie pattern in the axial map, positive central elevation on both anterior and posterior surfaces relative to the best-fit sphere, and central corneal thinning demonstrated in the pachymetry map.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 is determined by mean central keratometry less than 48 D (appearing around 45-47 D in the axial map), central corneal thickness greater than 450 μm (pachymetry map shows central values above 450 μm), absence of scarring, consistent with mild keratoconus without advanced thinning or opacity.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Stage 1 based on anterior radius of curvature >7.05 mm (equivalent to <48 D, inferred from front elevation and axial maps), posterior radius >5.70 mm (posterior elevation shows mild deviation), thinnest pachymetry >450 μm from pachymetry map; visual acuity parameter assumed mild impairment though not provided, with no scarring visible."​​]​
+},
+{
+"image_filename": "79.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive report shows characteristic signs of keratoconus, including inferior steepening on the axial curvature map with K1 43.3 D at 175° and K2 47.4 D at 85°, resulting in high irregular astigmatism of -4.1 D. The anterior and posterior elevation maps display asymmetric 'island' or 'volcano' patterns indicative of ectasia, and the pachymetry map reveals central corneal thinning with minimum thickness approximately 420 μm, displaced inferiorly.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Kmean) is 45.35 D (<48 D), high inferior-superior asymmetry (I-S value implied >1.4 D from the 4.1 D astigmatism and topographic pattern), no evidence of central scarring, and central pachymetry >400 μm, consistent with early-stage disease.",​
+"belin_abcd_overall_stage": 1.5,
+"belin_abcd_basis": "Anterior curvature (A) at thinnest point: radius ~7.3 mm (stage 1); posterior curvature (B) ~5.6 mm (stage 2); thinnest pachymetry (C) ~420 μm (stage 1); distance visual acuity (D) not provided but inferred moderate from refractive error (stage 2); overall stage calculated as average of components, reflecting mild ectatic changes centered on thinnest point."​​
+},
+{
+"image_filename": "80.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam report shows inferior corneal thinning with thinnest pachymetry of 475 μm, which is below normal values (typically >500 μm). The anterior sagittal curvature map demonstrates inferior steepening with elevated keratometry values reaching into the red color code (approximately 46-48 D), indicating irregular astigmatism. The posterior elevation map exhibits abnormal protrusion consistent with ectatic changes, and the corneal thickness spatial profile shows progression of thinning inferiorly.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Based on the classical Amsler-Krumeich criteria, the steepest simulated keratometry (Sim K max) is approximately 46 D (less than 48 D threshold for stage 1), central/inferior pachymetry at 475 μm (greater than 400 μm), with no evidence of scarring visible. The topographic pattern shows early inferior steepening without advanced distortion.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Using Belin ABCD staging: A (anterior radius at thinnest point) ~7.34 mm (stage 1, 7.15-7.45 mm); B (posterior radius) estimated ~5.6 mm (stage 1, 5.45-5.70 mm based on elevation map); C (thinnest pachymetry) 475 μm (stage 1, 450-490 μm); D (visual acuity) not available. Overall stage is the average of A, B, C grades: (1+1+1)/3 = 1."​​
+},
+{
+"image_filename": "81.jpg",
+"keratoconus_diagnosis": "yes",
+"justification": "The Pentacam maps show characteristic signs of keratoconus, including inferior steepening on the axial curvature map with a maximum keratometry (Kmax) of 50.8 D and an asymmetric bowtie pattern, focal elevation on the anterior and posterior elevation maps exceeding 15 μm and 20 μm respectively, and central corneal thinning on the pachymetry map with a minimum thickness of approximately 475 μm displaced inferiorly.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Steep meridian keratometry between 49-53 D (measured 50.8 D), central pachymetry 400-500 μm (measured 475 μm), no central scarring visible.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A (anterior curvature): stage 2 (Kmax 50.8 D, corresponding to 49.3-53.8 D range); B (posterior curvature): stage 2 (posterior elevation and decentration indicate moderate posterior involvement); C (thinnest pachymetry): stage 1 (475 μm, 460-490 μm range); D (visual acuity): not assessable from image; overall stage determined by the maximum parameter stage."​
+},
+{
+"image_filename": "82.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The anterior sagittal curvature map shows inferior steepening with colors indicating keratometric values up to approximately 48-50 D in the inferior region, suggesting asymmetric bowtie pattern typical of keratoconus. The pachymetry map displays corresponding inferior thinning, with estimated thinnest point around 450-500 μm. Both anterior and posterior elevation maps reveal focal elevations inferiorly, confirming ectatic changes consistent with keratoconus diagnosis.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry estimated below 48 D based on the central values around 43 D in the sagittal map, with thinnest pachymetry above 400 μm from the pachymetry map, and no evidence of scarring or advanced ectasia.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior curvature (A) stage 1 with estimated Kmax around 48 D at thinnest point; posterior curvature (B) shows early changes with posterior elevation up to 20 μm; corneal thickness (C) stage 0-1 with thinnest pachymetry >450 μm; no visual acuity data (D), overall mild ectasia centered on thinnest point.nt."
+},
+{
+"image_filename": "83.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The anterior sagittal curvature map for OS exhibits an asymmetric bowtie pattern with inferior steepening, displaying keratometric values around 46-48 D inferiorly. Pachymetry map indicates inferior corneal thinning with thinnest point estimated at 450-500 μm. Anterior and posterior elevation maps show focal inferior elevations and posterior surface changes, indicative of ectatic disorder consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Central mean keratometry appears under 48 D from sagittal map central values near 44 D, thinnest pachymetry greater than 400 μm per pachymetry map, absence of scarring or marked ectasia supporting early stage.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius) stage 1 with Kmax approximately 48 D at thinnest; B (posterior radius) early posterior changes with elevations up to 15-20 μm; C (corneal thickness) stage 1 with thinnest >450 μm; D (best corrected VA) unavailable, overall stage reflects mild progression normalized to thinnest point."​​​
+},
+{
+"image_filename": "84.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening in the axial and sagittal curvature maps, with central red areas indicating high curvature (Kmax approximately 50 D). The elevation maps demonstrate significant anterior and posterior elevation above the best fit sphere, particularly inferiorly. Pachymetry map reveals central thinning around 420 µm, consistent with ectatic changes diagnostic of keratoconus.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry (Km) between 48-53 D, central corneal thickness >400 µm, no scarring observed. This corresponds to stage 2 per adapted Amsler-Krumeich criteria.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) >6.35 mm (<53 D), posterior (B) >5.15 mm (<65.5 D), thinnest pachymetry (C) >400 µm; overall stage determined by the highest individual grade. No visual acuity data, but based on tomographic parameters.."​
+},
+{
+"image_filename": "85.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening in the axial curvature map with a skewed bowtie pattern, positive posterior elevation greater than anterior, and inferior corneal thinning in the pachymetry map, indicative of ectatic changes consistent with keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry approximately 45.4 D (flat K 43.6 D, steep K 47.2 D), central pachymetry around 525 μm, no evidence of scarring, and astigmatism >1 D, meeting criteria for early stage without advanced thinning or scarring.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A: Anterior radius of curvature ~7.3 mm (stage 0); B: Posterior radius of curvature ~5.8 mm (stage 1); C: Thinnest pachymetry ~490 μm (stage 1); D: Visual acuity not provided, defaulting to stage 1 based on tomographic parameters; overall stage is the maximum value (1)."​
+},
+{
+"image_filename": "86.jpg",
+"keratoconus_diagnosis": "Present (right eye/OD)",
+"justification": "Pentacam maps show localized central–inferior steepening on axial curvature with Kmax 53.7 D, asymmetric bow-tie pattern, marked posterior elevation peaking around +49 µm, and thinnest pachymetry of 453 µm—findings consistent with keratoconus.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Km 48.2 D (<53 D), regular astigmatism 5.1 D (<8 D), thinnest corneal thickness 453 µm (400–500 µm band), and no scarring noted on the report—meeting Stage II criteria.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A (anterior curvature): mild–moderate ectasia suggested by steepening and Kmax 53.7 D; B (posterior curvature): abnormal with central elevation up to +49 µm; C (thinnest thickness): 453 µm consistent with mild–moderate thinning; D (BCDVA): not provided—overall stage assigned by the highest of A/B/C ≈ 2."
+},
+{
+"image_filename": "87.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam maps display characteristic signs of keratoconus, including inferior steepening on the axial and sagittal front maps with skewed radial axes, positive floating reference body on anterior and posterior elevation maps indicating protrusion, and central/inferior corneal thinning on the pachymetry map.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean central keratometry between 49-53 D, central corneal thickness between 400-500 μm, no scarring visible.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius (A) grade 2 (6.85-7.35 mm), posterior radius (B) grade 2 (5.4-5.75 mm), thinnest pachymetry (C) grade 1 (460-490 μm), best corrected visual acuity (D) grade 0; overall stage is the maximum grade of 2."
+},
+{
+"image_filename": "88.jpg",
+"keratoconus_diagnosis": "Keratoconus present ",​​
+"justification": "Axial curvature shows an asymmetric, inferotemporal‑skewed bow‑tie with irregular astigmatism of about 5.8 D and K values K1 45.7 D, K2 51.5 D, and Kmax 54.0 D, a tomographic pattern characteristic of keratoconus. The corneal thickness map reveals a decentered thinnest point of 460 µm with corresponding posterior elevation island exceeding +50 µm, additional classic signs of ectasia on Scheimpflug tomography.",​​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Using the adapted Amsler‑Krumeich criteria that rely on mean keratometry (Km) and thinnest corneal thickness (CT), Km ≈ 48.6 D derived from K1 45.7 D and K2 51.5 D with CT 460 µm meets Stage 2 (Km <53 D with CT >400 µm). Although Kmax reaches 54.0 D, staging per this adaptation is based on Km rather than Kmax and therefore remains Stage 2 given the thickness above 400 µm.",​​
+"belin_abcd_overall_stage": null,
+"belin_abcd_basis": "A formal ABCD stage cannot be computed from this 4‑Maps Refractive page because the ABCD system requires the anterior and posterior radii of curvature in the 3.0‑mm zone centered on the thinnest point (A and B) plus the thinnest pachymetry and CDVA, parameters not displayed here; only the thinnest pachymetry (460 µm) is visible on this page. Provide the Pentacam Belin ABCD display (Progression/Staging) to extract A, B, C, and D so an overall ABCD stage (usually the highest of A–C with D as functional) can be assigned objectively.ely."​​
+},
+{
+"image_filename": "89.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The Pentacam 4 Maps Refractive display shows characteristic signs of keratoconus including inferior steepening on the axial curvature map (warmer colors indicating higher dioptric power inferiorly), focal positive elevation on the anterior elevation map centered inferiorly, corresponding posterior elevation abnormality, and inferior corneal thinning on the pachymetry map with a progressive decrease in thickness from periphery to the thinnest point.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Based on the axial map, the mean corneal power (Kmean) is approximately 46 D (derived from observed values around 42-48 D across K1 and K2), central pachymetry exceeds 500 μm (visually estimated from the thickness map), and the inferior-superior (I-S) value is less than 1.25 D, consistent with early-stage ectasia without scarring. This aligns with Stage I criteria where mean K ≤48 D, central thickness ≥500 μm, and minimal asymmetry.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) in the 3 mm zone at thinnest point >7.05 mm (<48 D, estimated from anterior elevation and axial maps), posterior radius (B) >5.70 mm (<59.25 D, from posterior elevation map), thinnest pachymetry (C) >450 μm (inferior thinning observed around 450-500 μm), and assuming best-corrected visual acuity (D) better than 20/20 but with some loss; overall Stage I as all parameters fit within this grade without advancing to higher thresholds."​
+},
+{
+"image_filename": "90.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the axial curvature map, focal positive elevation on both anterior and posterior elevation maps (with maximum anterior elevation around 75 μm and posterior around 97 μm), and inferior thinning on the pachymetry map with central thickness approximately 550 μm and thinnest point around 465 μm, indicative of early ectatic changes consistent with keratoconus.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry <48 D (approximately 44.5 D), thinnest corneal thickness >400 μm (465 μm), eccentric central steepening present, no scarring visible.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A: Anterior radius >7.05 mm (<48.0 D), stage 1; B: Posterior radius >5.70 mm (<59.25 D), stage 1; C: Thinnest pachymetry >450 μm (465 μm), stage 1; D: Assuming best corrected visual acuity <20/20 but better than 20/40, stage 1; overall stage is the maximum, which is 1.1."​
+},
+{
+"image_filename": "91.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "The axial curvature map shows inferior steepening with a skewed bowtie pattern indicative of asymmetric astigmatism. The anterior and posterior elevation maps demonstrate a central island of elevation deviation from the best fit sphere, and the pachymetry map reveals relative central thinning, all classic signs of keratoconus.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is approximately 46.5 D (less than 48 D), central corneal thickness is about 510 μm (greater than 500 μm), no visible scarring, and refraction within limits for stage 1.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Anterior radius of curvature (A) stage 1, posterior (B) stage 1, thinnest pachymetry (C) stage 0, visual acuity (D) not specified but assumed normal; overall stage determined by maximum of A, B, C as 1."​​
+},
+{
+"image_filename": "92.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive report for the right eye (OD) displays characteristic signs of keratoconus, including asymmetric inferior steepening on the axial curvature map with a skewed bowtie pattern, central corneal thinning on the pachymetry map (thinnest point approximately 460 μm), and abnormal posterior corneal elevation exceeding the best fit sphere, indicating ectatic changes.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Stage 1 is determined by mean central keratometry (Kmean) less than 48.0 D (approximately 46.5 D observed), thinnest pachymetry greater than 450 μm (460 μm), and absence of corneal scarring or opacity, consistent with early eccentric steepening without advanced features.",​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Overall stage 1 based on A (anterior radius of curvature in 3 mm zone on thinnest point ~7.1 mm or 47.5 D, grade 1), B (posterior radius ~5.6 mm, grade 1-2 due to elevation abnormality), C (thinnest pachymetry 460 μm, grade 1), averaging to stage 1; D not assessable from image but assumed normal for staging. This reflects early anatomical changes centered on the thinnest point."​
+},
+{
+"image_filename": "93.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show inferior steepening on the anterior sagittal curvature map with maximum keratometry (Kmax) approximately 48.5 D, elevated posterior corneal elevation greater than 20 µm, and central corneal thinning with pachymetry at the thinnest point around 430 µm, indicative of keratoconus.",​​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry is less than 48 D, no central scarring present, and refractive astigmatism is within normal limits for stage 1 according to the adapted Amsler-Krumeich classification.",​​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Parameter A (anterior radius of curvature in 3 mm zone at thinnest point) corresponds to stage 1 (<48 D), parameter B (posterior) stage 1, parameter C (thinnest pachymetry 430 µm) stage 2 (>400 µm but <450 µm), parameter D (visual acuity not provided, assumed stage 1); overall stage is the maximum value of 2."​​1]
+},
+{
+"image_filename": "94.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam maps show classic signs of keratoconus, including inferior steepening on the axial curvature map with increased dioptric values in the inferior region, posterior elevation abnormalities, and central/inferior corneal thinning observed on the pachymetry map.",​
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Maximum keratometry (Kmax) between 48.00 D and 53.00 D, central corneal thickness greater than 400 µm, and no evidence of central scarring on the topographic maps.",​
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "Anterior radius of curvature (A) >6.35 mm (<53.0 D), posterior radius of curvature (B) >5.15 mm (<65.5 D), thinnest pachymetry (C) >400 µm; visual acuity (D) not provided but inferred from refractive maps suggesting mild to moderate impact."​
+},
+{
+"image_filename": "95.jpg",
+"keratoconus_diagnosis": "Present (right eye, OD)",
+"justification": "Findings consistent with ectasia: asymmetric bow‑tie with inferior steepening on axial curvature, Kmax ≈ 49.6 D, posterior elevation peak about +59 µm, and inferotemporal thinning with thinnest pachymetry ≈ 462 µm.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "K within 48–53 D window (Kmax ≈ 49.6 D) and minimum corneal thickness between 400–500 µm (≈ 462 µm), with no scarring noted; refraction not provided but topography/pachymetry fit stage 2.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "A≈2 (anterior curvature near 49–50 D inferred from Kmax 49.6 D), B≈2–3 (posterior elevation hotspot +59 µm indicating notable posterior steepening), C=1 (thinnest pachymetry ≈ 462 µm), D=NA (visual acuity not supplied); overall stage reported conservatively as 2 based on highest reliably supported component."
+},
+{
+"image_filename": "96.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam tomography shows classic signs of keratoconus including inferior steepening on the axial curvature map with maximum keratometry approximately 47.9 D, thinnest pachymetry of 468 μm at the inferior cone location, and elevated anterior (max ~15-20 μm) and posterior (~18-20 μm) corneal surfaces relative to the best fit sphere, indicating ectatic changes.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Based on adapted Amsler-Krumeich criteria, the mean keratometry is approximately 45.5 D (estimated from K1 ~43 D and K2 ~48 D), thinnest corneal thickness 468 μm (400-500 μm range), and no evidence of scarring; this corresponds to stage 1 (mild keratoconus).",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Using Belin ABCD system, parameter A (anterior radius of curvature 3 mm zone at thinnest point) >7.05 mm (~7.1 mm estimated from ~47 D average in zone), parameter B (posterior radius of curvature 3 mm zone) 5.84 mm (>5.70 mm), parameter C (thinnest pachymetry) 468 μm (>450 μm), parameter D (BCVA) not specified in report but ABC parameters indicate stage 1 overall; the highest stage among parameters is 1."​​
+},
+{
+"image_filename": "97.jpg",
+"keratoconus_diagnosis": "Present",
+"justification": "OD shows asymmetric inferior steepening on the anterior sagittal curvature map, marked posterior corneal elevation (~+51 µm) with corresponding anterior elevation (~+28 µm), thinnest pachymetry around 406–413 µm displaced from the apex, and elevated curvature (Km ≈ 48.1 D, Kmax ≈ 51.7 D), which together are diagnostic of keratoconus.",
+"amsler_krumeich_stage": 2,
+"amsler_krumeich_basis": "Mean keratometry around 48.1 D (within 48–53 D) and thinnest pachymetry near 406 µm (within 400–500 µm) fit Stage II; corneal scarring is not indicated and refractive astigmatism on the map is ~3.9 D.",
+"belin_abcd_overall_stage": 2,
+"belin_abcd_basis": "ABCD estimated from the Pentacam maps: A2 (anterior curvature in the 3 mm zone approximated by K values around 48–52 D), B2 (posterior surface shows moderate ectatic changes with ~+51 µm elevation consistent with posterior curvature worsening beyond normal), C2 (thinnest pachymetry ~406 µm), D not provided; overall stage taken as the highest of A–C = 2."
+},
+{
+"image_filename": "98.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive report shows classic signs of keratoconus, including inferior steepening with an asymmetric bowtie pattern on the axial curvature map (yellow-orange hues inferiorly indicating increased power around 48-50 D), positive elevation (red island) on the anterior and posterior elevation maps suggesting anterior protrusion >15 μm and posterior >20 μm, and central/inferior corneal thinning (blue-purple hues centrally around 450-460 μm) on the pachymetry map.",​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Adapted Amsler-Krumeich criteria: mean central keratometry (Km) <48 D based on central axial power values; thinnest pachymetry >450 μm with no scarring evident.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Belin ABCD staging: A1 (anterior radius >7.05 mm or <48 D from axial map centering on thinnest point); B1 (posterior radius >5.70 mm or <59.25 D from back elevation map); C1 (thinnest pachymetry >450 μm); D not assessable from image (visual acuity not provided), overall stage determined by maximum parameter grade.."​​
+},
+{
+"image_filename": "99.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive report for the right eye (OD) displays characteristic signs of keratoconus, including inferior steepening on the anterior sagittal curvature map with a maximum keratometry (Kmax) exceeding 47.2 D, a positive island configuration on the anterior and posterior elevation maps indicating corneal protrusion, and a thinnest corneal thickness below 500 μm on the pachymetry map, suggesting corneal thinning typically seen in ectatic disorders.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Mean central keratometry (Km) is less than 48 D (approximately 47.5 D), apical corneal thickness is greater than or equal to 500 μm (measured centrally at about 510 μm), and no central scarring is evident, aligning with stage I criteria.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "Parameter A (anterior radius of curvature in 3 mm zone at thinnest point) >7.05 mm (equivalent to <48.0 D), parameter B (posterior radius >5.70 mm or <59.25 D based on posterior elevation), parameter C (thinnest pachymetry >450 μm at 480 μm); visual acuity (D) not provided in the report, but the maximum grade among A, B, and C indicates stage I."​​]
+},
+{
+"image_filename": "100.jpg",
+"keratoconus_diagnosis": "Yes",
+"justification": "The Pentacam 4 Maps Refractive display shows characteristic signs of keratoconus, including inferior steepening on the anterior sagittal curvature map with asymmetric bow-tie pattern, posterior elevation abnormalities on the back elevation map, and central corneal thinning on the pachymetry map.",​​
+"amsler_krumeich_stage": 1,
+"amsler_krumeich_basis": "Eccentric corneal steepening present, mean central keratometry <48 D (approximately 47 D based on axial map scale), central corneal thickness >400 μm (thinnest pachymetry around 460 μm), no evidence of scarring.",​​
+"belin_abcd_overall_stage": 1,
+"belin_abcd_basis": "A (anterior radius of curvature in 3 mm zone centered on thinnest point): >7.05 mm (<48.0 D); B (posterior radius of curvature): >5.70 mm (<59.25 D); C (thinnest pachymetry): >450 μm; D (best distance visual acuity): not specified but consistent with early stage; overall determined by the highest grade among A, B, C, D components, no scarring."​​
+}
