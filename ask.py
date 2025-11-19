@@ -7,14 +7,36 @@ from agents import OPENAIAGENT
 image_folder_path = r"C:\Users\wajee\PycharmProjects\API_keratoconus_research\images"
 output_file = "gpt5_results.json"
 
-
+# ----------------------------------------------------
+# STEP 1 — Ensure output file exists and is valid JSON
 if not os.path.exists(output_file):
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("[\n")
-first_entry = True
+        json.dump([], f, indent=2)
 
+try:
+    with open(output_file, "r", encoding="utf-8") as f:
+        results = json.load(f)
+except:
+    print("⚠️ Output file corrupted. Reinitializing as empty array.")
+    results = []
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2)
+
+# ----------------------------------------------------
+# STEP 2 — Determine which images are already processed
+processed_images = {entry["image_filename"] for entry in results if "image_filename" in entry}
+
+print(f"🔄 Already processed: {len(processed_images)} images")
+
+# ----------------------------------------------------
+# STEP 3 — The actual go over the image and skip the done images in the list
 for image in os.listdir(image_folder_path):
+
     if not image.lower().endswith((".jpg", ".jpeg", ".png")):
+        continue
+
+    if image in processed_images:
+        print(f"⏩ Skipping {image} (already processed)")
         continue
 
     image_path = os.path.join(image_folder_path, image)
@@ -50,22 +72,18 @@ for image in os.listdir(image_folder_path):
             parsed = json.loads(cleaned)
 
         parsed = {"image_filename": image, **parsed}
+        results.append(parsed)
 
-        with open(output_file, "a", encoding="utf-8") as f:
-            if first_entry:
-                json.dump(parsed, f, ensure_ascii=False, indent=2)
-                first_entry = False
-            else:
-                f.write(",\n")
-                json.dump(parsed, f, ensure_ascii=False, indent=2)
+        # SAFE SAVE
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
 
-        print(f"💾 Saved results for {image} to {output_file}")
+        print(f"💾 Saved results for {image}")
 
     except Exception as e:
         print(f"❌ Error processing {image}: {e}")
 
-# ✅ Close the JSON array properly at the end
-with open(output_file, "a", encoding="utf-8") as f:
-    f.write("\n]")
 
 print(f"\n✅ All results written incrementally and saved to {output_file}")
+
+
