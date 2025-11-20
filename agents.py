@@ -105,15 +105,11 @@ class OPENAIAGENT:
         """Clear the conversation history but keep the system message."""
         print("Clearing OPENAIAGENT conversation history...")
 
-        if not hasattr(self, "system_message") or not self.system_message.strip():
-            print("Cannot clear conversation history: missing or empty system message.")
-            raise ValueError("Cannot clear conversation history — system message is missing or empty.")
-
         old_length = len(self.history)
         print(f"Previous conversation length: {old_length} message(s).")
 
         # Reset only user/assistant messages — keep the system role for context
-        self.history = [{"role": "system", "content": self.system_message}]
+        self.history = []
 
         print("Conversation history cleared successfully.")
 
@@ -238,15 +234,11 @@ class GROKAGENT():
         """Clear the conversation history but keep the system message."""
         print("Clearing GROKAGENT conversation history...")
 
-        if not hasattr(self, "system_message") or not self.system_message.strip():
-            print("Cannot clear conversation history: missing or empty system message.")
-            raise ValueError("Cannot clear conversation history — system message is missing or empty.")
-
         old_length = len(self.history)
         print(f"Previous conversation length: {old_length} message(s).")
 
         # Reset only user/assistant messages — keep the system role for context
-        self.history = [{"role": "system", "content": self.system_message}]
+        self.history = []
 
         print("Conversation history cleared successfully.")
 
@@ -370,15 +362,11 @@ class DEEPSEEKAGENT():
         """Clear the conversation history but keep the system message."""
         print("Clearing DEEPSEEKAGENT conversation history...")
 
-        if not hasattr(self, "system_message") or not self.system_message.strip():
-            print("Cannot clear conversation history: missing or empty system message.")
-            raise ValueError("Cannot clear conversation history — system message is missing or empty.")
-
         old_length = len(self.history)
         print(f"Previous conversation length: {old_length} message(s).")
 
         # Reset only user/assistant messages — keep the system role for context
-        self.history = [{"role": "system", "content": self.system_message}]
+        self.history = []
 
         print("Conversation history cleared successfully.")
 
@@ -502,15 +490,11 @@ class QWENAGENT:
         """Clear the conversation history but keep the system message."""
         print("Clearing QWENAGENT conversation history...")
 
-        if not hasattr(self, "system_message") or not self.system_message.strip():
-            print("Cannot clear conversation history: missing or empty system message.")
-            raise ValueError("Cannot clear conversation history — system message is missing or empty.")
-
         old_length = len(self.history)
         print(f"Previous conversation length: {old_length} message(s).")
 
         # Reset only user/assistant messages — keep the system role for context
-        self.history = [{"role": "system", "content": self.system_message}]
+        self.history = []
 
         print("Conversation history cleared successfully.")
 
@@ -595,7 +579,7 @@ class GEMINIAGENT:
             # expected format: {"prompt": "...", "images": ["img1.png", "img2.jpg"]}
 
             # Add text part
-            parts.append(types.Part.from_text(user_input["prompt"]))
+            parts.append(types.Part(text=user_input["prompt"]))
 
             # Add image parts (using local file paths)
             for img_path in user_input.get("images", []):
@@ -618,7 +602,7 @@ class GEMINIAGENT:
 
         else:
             # Handle text-only input
-            parts.append(types.Part.from_text(user_input))
+            parts.append(types.Part(text=user_input))
 
         # 2. Configure the generation request
         config = types.GenerateContentConfig()
@@ -635,12 +619,19 @@ class GEMINIAGENT:
         # 4. Send the message
         try:
             # Use the chat session's send_message method to automatically manage history
-            response = self.chat_session.send_message(
-                contents=parts,
-                config=config if any(getattr(config, f, None) for f in
-                                     ['response_mime_type', 'response_schema', 'thinking_config']) else None
-                # Only pass config if configured
+            kwargs = {"contents": parts}
+
+            # Check if the config has been modified from its default state
+            # (Since you only use 'response_mime_type', we check that)
+            is_config_modified = (
+                    hasattr(config, "response_mime_type") and
+                    config.response_mime_type == "application/json"
             )
+
+            if is_config_modified:
+                kwargs["config"] = config
+
+            response = self.chat_session.send_message(**kwargs)
 
             print("Model response received successfully.")
             reply = response.text.strip()
@@ -672,12 +663,7 @@ class GEMINIAGENT:
         """Clear the conversation history by recreating the chat session."""
         print("Clearing GEMINIAGENT conversation history...")
 
-        if self.chat_session is None:
-            # Recreate a new client and chat session if somehow lost
-            self.__init__(self.client._client._base_url, self.system_message, self.model)
-            return
-
-        old_length = len(self.chat_session.get_history().history)
+        old_length = len(self.chat_session.get_history())
         print(f"Previous conversation length: {old_length} message(s).")
 
         # Reset by creating a new chat session with the original model and config
