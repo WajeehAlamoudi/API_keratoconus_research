@@ -1,1 +1,6 @@
-OPENAI_API_KEY="The api goes here"
+OPENAI_API_KEY = ""
+GROK_API_KEY = ""
+DEEPSEEK_API_KEY = ""
+QWEN_API_KEY = ""
+GEMINI_API_KEY = ""
+
