@@ -1,0 +1,20 @@
+[
+  {
+    "image_filename": "IMG-20251112-WA0015.jpg",
+    "keratoconus_diagnosis": "Present (advanced keratoconus, OS)",
+    "justification": "Pentacam shows a localized cone with marked anterior axial steepening (Kmax ≈ 86.9 D), pronounced anterior/posterior elevation islands, and very low pachymetry (thinnest ≈ 239 µm). Astigmatism is high (~6.4 D). These findings are diagnostic of keratoconus.",
+    "amsler_krumeich_stage": "IV",
+    "amsler_krumeich_basis": "Stage IV because K is far above 55 D (Kmax ≈ 86.9 D) and the minimum corneal thickness is <300 µm (≈239 µm).",
+    "belin_abcd_overall_stage": "4",
+    "belin_abcd_basis": "A4: anterior radius at thinnest ≈ 5.06 mm (very steep). B4: posterior radius at thinnest ≈ 3.43 mm (marked posterior steepening). C4: thinnest pachymetry ≈ 239 µm. D (BCVA) not provided. Overall ABCD stage is the highest of A/B/C/D, therefore stage 4."
+  },
+  {
+    "image_filename": "IMG-20251112-WA0016.jpg",
+    "keratoconus_diagnosis": "Present (advanced keratoconus, OS)",
+    "justification": "Pentacam shows focal central/inferior steepening on axial curvature with very high keratometry (K1≈66.7 D, K2≈73.2 D, Kmax≈86.9 D), pronounced posterior elevation, and a very thin cornea (thinnest pachymetry ≈239 µm). These are classic signs of keratoconus.",
+    "amsler_krumeich_stage": "Stage 4",
+    "amsler_krumeich_basis": "Mean keratometry well >53 D together with minimum corneal thickness <300 µm (≈239 µm) and marked irregular astigmatism meet Stage 4 criteria.",
+    "belin_abcd_overall_stage": "Stage 4",
+    "belin_abcd_basis": "A4: markedly steep anterior curvature (Rf≈5.06 mm; K up to ≈86.9 D). B4: very steep posterior surface (Rb≈3.43 mm) with high posterior elevation. C4: thinnest pachymetry ≈239 µm. D: visual acuity not provided. Overall stage is the worst component (C4), thus Stage 4."
+  }
+]

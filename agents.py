@@ -12,7 +12,7 @@ from google.genai.errors import APIError
 
 
 class OPENAIAGENT:
-    def __init__(self, openai_api_key, system_message=None, model=None):
+    def __init__(self, api_key, system_message=None, model=None):
         print(f"Initializing OPENAIAGENT chat or embed for model {model}.")
 
         self.model = model
@@ -22,7 +22,7 @@ class OPENAIAGENT:
         self.last_token_usage = None
 
         try:
-            self.client = OpenAI(api_key=openai_api_key)
+            self.client = OpenAI(api_key=api_key)
 
             try:
                 _ = self.client.models.list()
@@ -136,7 +136,7 @@ class OPENAIAGENT:
 
 class GROKAGENT():
 
-    def __init__(self, grok_api_key, system_message=None, model=None):
+    def __init__(self, api_key, system_message=None, model=None):
         print(f"Initializing GROKAGENT chat model {model}.")
 
         self.model = model
@@ -147,7 +147,7 @@ class GROKAGENT():
 
         try:
             self.client = OpenAI(
-                api_key=grok_api_key,
+                api_key=api_key,
                 base_url="https://api.x.ai/v1",
                 timeout=httpx.Timeout(3600.0)
             )
@@ -265,7 +265,7 @@ class GROKAGENT():
 
 class DEEPSEEKAGENT():
 
-    def __init__(self, deep_seek_api_key, system_message=None, model=None):
+    def __init__(self, api_key, system_message=None, model=None):
         print(f"Initializing DEEPSEEKAGENT chat model {model}.")
 
         self.model = model
@@ -276,7 +276,7 @@ class DEEPSEEKAGENT():
 
         try:
             self.client = OpenAI(
-                api_key=deep_seek_api_key,
+                api_key=api_key,
                 base_url="https://api.deepseek.com/v1"
             )
 
@@ -393,7 +393,7 @@ class DEEPSEEKAGENT():
 
 class QWENAGENT:
 
-    def __init__(self, deep_seek_api_key, system_message=None, model=None):
+    def __init__(self, api_key, system_message=None, model=None):
         print(f"Initializing QWENAGENT chat model {model}.")
 
         self.model = model
@@ -404,7 +404,7 @@ class QWENAGENT:
 
         try:
             self.client = OpenAI(
-                api_key=deep_seek_api_key,
+                api_key=api_key,
                 base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
             )
 
@@ -521,7 +521,7 @@ class QWENAGENT:
 
 class GEMINIAGENT:
 
-    def __init__(self, gemeni_api_key: str, system_message: str = None, model: str = None):
+    def __init__(self, api_key: str, system_message: str = None, model: str = None):
         """Initializes the Gemini client and chat session."""
         print(f"Initializing GEMINIAGENT chat for model {model}.")
 
@@ -533,7 +533,7 @@ class GEMINIAGENT:
 
         try:
             # 1. Initialization: Client setup uses the API key
-            self.client = genai.Client(api_key=gemeni_api_key)
+            self.client = genai.Client(api_key=api_key)
 
             # Optional: Verify API key by listing models (similar to OpenAI logic)
             # The genai client does not have a simple 'models.list()'. A simple call
