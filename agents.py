@@ -1,4 +1,5 @@
 import base64
+import time
 from pathlib import Path
 import httpx
 from openai import OpenAI, OpenAIError
@@ -41,10 +42,8 @@ class OPENAIAGENT:
 
     def ask(self, user_input, response_type: str = None):
         user_message = None
-        print("Entering OPENAIAGENT.ask()")
 
         if not user_input:
-            print("Empty user input provided to OPENAIAGENT.ask()")
             raise ValueError("ask agent failed Please enter a valid user_input.")
 
         # 🔹 Handle text + image multimodal input
@@ -81,7 +80,6 @@ class OPENAIAGENT:
                 response_format=response_format
             )
 
-            print("Model response received successfully.")
             message = response.choices[0].message
             reply = (message.content or "").strip()
 
@@ -89,16 +87,15 @@ class OPENAIAGENT:
             return reply
         except OpenAIError as e:
             if "context_length_exceeded" in str(e):
-                print("Context length exceeded. Clearing history and retrying...")
-                self.clear_conversation_history()
-                self.history.append({"role": "user", "content": user_input})
-                return self.ask(user_input=user_input)
+                # print("Context length exceeded. Clearing history and retrying...")
+                # self.clear_conversation_history()
+                # self.history.append({"role": "user", "content": user_input})
+                # return self.ask(user_input=user_input)
+                raise ValueError(f"OpenAI chat context_length_exceeded: {e}") from e
             else:
-                print("OpenAI chat completion failed", e)
                 raise ValueError(f"OpenAI chat completion failed: {e}") from e
 
         except Exception as e:
-            print("Unexpected error during chat completion", e)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):
@@ -169,10 +166,8 @@ class GROKAGENT():
 
     def ask(self, user_input, response_type: str = None):
         user_message = None
-        print("Entering GROKAGENT.ask()")
 
         if not user_input:
-            print("Empty user input provided to GROKAGENT.ask()")
             raise ValueError("ask agent failed Please enter a valid user_input.")
 
         # 🔹 Handle text + image multimodal input
@@ -210,7 +205,6 @@ class GROKAGENT():
                 response_format=response_format
             )
 
-            print("Model response received successfully.")
             message = response.choices[0].message
             reply = (message.content or "").strip()
 
@@ -218,16 +212,15 @@ class GROKAGENT():
             return reply
         except OpenAIError as e:
             if "context_length_exceeded" in str(e):
-                print("Context length exceeded. Clearing history and retrying...")
-                self.clear_conversation_history()
-                self.history.append({"role": "user", "content": user_input})
-                return self.ask(user_input=user_input)
-            else:
-                print("GROK xAI chat completion failed", e)
+                # print("Context length exceeded. Clearing history and retrying...")
+                # self.clear_conversation_history()
+                # self.history.append({"role": "user", "content": user_input})
+                # return self.ask(user_input=user_input)
                 raise ValueError(f"GROK xAI chat completion failed: {e}") from e
+            else:
+                raise ValueError(f"GROK xAI context_length_exceeded: {e}") from e
 
         except Exception as e:
-            print("Unexpected error during chat completion", e)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):
@@ -297,10 +290,8 @@ class DEEPSEEKAGENT():
 
     def ask(self, user_input, response_type: str = None):
         user_message = None
-        print("Entering DEEPSEEKAGENT.ask()")
 
         if not user_input:
-            print("Empty user input provided to DEEPSEEKAGENT.ask()")
             raise ValueError("ask agent failed Please enter a valid user_input.")
 
         # 🔹 Handle text + image multimodal input
@@ -338,7 +329,6 @@ class DEEPSEEKAGENT():
                 response_format=response_format
             )
 
-            print("Model response received successfully.")
             message = response.choices[0].message
             reply = (message.content or "").strip()
 
@@ -346,16 +336,15 @@ class DEEPSEEKAGENT():
             return reply
         except OpenAIError as e:
             if "context_length_exceeded" in str(e):
-                print("Context length exceeded. Clearing history and retrying...")
-                self.clear_conversation_history()
-                self.history.append({"role": "user", "content": user_input})
-                return self.ask(user_input=user_input)
+                # print("Context length exceeded. Clearing history and retrying...")
+                # self.clear_conversation_history()
+                # self.history.append({"role": "user", "content": user_input})
+                # return self.ask(user_input=user_input)
+                raise ValueError(f"DEEPSEEKAGENT context_length_exceeded: {e}") from e
             else:
-                print("DEEPSEEKAGENT chat completion failed", e)
                 raise ValueError(f"DEEPSEEKAGENT chat completion failed: {e}") from e
 
         except Exception as e:
-            print("Unexpected error during chat completion", e)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):
@@ -425,10 +414,8 @@ class QWENAGENT:
 
     def ask(self, user_input, response_type: str = None):
         user_message = None
-        print("Entering QWENAGENT.ask()")
 
         if not user_input:
-            print("Empty user input provided to QWENAGENT.ask()")
             raise ValueError("ask agent failed Please enter a valid user_input.")
 
         # 🔹 Handle text + image multimodal input
@@ -466,7 +453,6 @@ class QWENAGENT:
                 response_format=response_format
             )
 
-            print("Model response received successfully.")
             message = response.choices[0].message
             reply = (message.content or "").strip()
 
@@ -474,16 +460,16 @@ class QWENAGENT:
             return reply
         except OpenAIError as e:
             if "context_length_exceeded" in str(e):
-                print("Context length exceeded. Clearing history and retrying...")
-                self.clear_conversation_history()
-                self.history.append({"role": "user", "content": user_input})
-                return self.ask(user_input=user_input)
+                # self.clear_conversation_history()
+                # time.sleep(5)
+                # self.history.append({"role": "user", "content": user_input})
+                # return self.ask(user_input=user_input)
+                raise ValueError(f"QWENAGENT Context length exceeded: {e}") from e
             else:
                 print("QWENAGENT chat completion failed", e)
                 raise ValueError(f"QWENAGENT chat completion failed: {e}") from e
 
         except Exception as e:
-            print("Unexpected error during chat completion", e)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):
@@ -565,10 +551,8 @@ class GEMINIAGENT:
 
     def ask(self, user_input: Union[str, Dict[str, Union[str, List[str]]]], response_type: str = None) -> str:
         """Sends a message to the model and returns the text response."""
-        print("Entering GEMINIAGENT.ask()")
 
         if not user_input:
-            print("Empty user input provided to GEMINIAGENT.ask()")
             raise ValueError("ask agent failed: Please enter a valid user_input.")
 
         # 1. Build the 'contents' list (list of Parts)
@@ -618,22 +602,23 @@ class GEMINIAGENT:
 
         # 4. Send the message
         try:
-            # Use the chat session's send_message method to automatically manage history
-            kwargs = {"contents": parts}
-
-            # Check if the config has been modified from its default state
-            # (Since you only use 'response_mime_type', we check that)
+            # Check if the config has been modified for JSON output
             is_config_modified = (
                     hasattr(config, "response_mime_type") and
                     config.response_mime_type == "application/json"
             )
 
+            # Build keyword arguments for the send_message call
+            request_kwargs = {}
             if is_config_modified:
-                kwargs["config"] = config
+                request_kwargs["config"] = config
 
-            response = self.chat_session.send_message(**kwargs)
+            # Pass the content (parts) and any configuration
+            response = self.chat_session.send_message(
+                parts,  # Pass the message content
+                **request_kwargs  # Pass the config if present
+            )
 
-            print("Model response received successfully.")
             reply = response.text.strip()
 
             # Save token usage metadata
@@ -647,16 +632,16 @@ class GEMINIAGENT:
             # Gemini's APIError will contain context limits, but a universal retry is more complex
             # than the OpenAI one. The most direct equivalent is to clear and re-raise.
             if "context_length" in str(e).lower() or "quota" in str(e).lower():
-                print("Context length or quota issue detected. Clearing history and retrying with current input...")
-                self.clear_conversation_history()
-                # Re-send the *current* user input, which includes the multimodal handling logic above.
-                return self.ask(user_input=user_input, response_type=response_type)
+                # self.clear_conversation_history()
+                # time.sleep(5)
+                # # Re-send the *current* user input, which includes the multimodal handling logic above.
+                # return self.ask(user_input=user_input, response_type=response_type)
+                raise ValueError(f"Gemini Context length or quota issue detected: {e}") from e
+
             else:
-                print("Gemini chat completion failed", e)
                 raise ValueError(f"Gemini chat completion failed: {e}") from e
 
         except Exception as e:
-            print("Unexpected error during chat completion", e)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):

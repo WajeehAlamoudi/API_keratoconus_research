@@ -10,10 +10,10 @@ from ask_utils import run_agent_ask
 import threading
 
 MODEL_CONFIG = {
-    "gpt5_results.json": {
-        "class": OPENAIAGENT,
-        "kwargs": {"api_key": config.OPENAI_API_KEY, "model": "gpt-5"}
-    },
+    # "gpt5_results.json": {
+    #     "class": OPENAIAGENT,
+    #     "kwargs": {"api_key": config.OPENAI_API_KEY, "model": "gpt-5"}
+    # },
     "grok_results.json": {
         "class": GROKAGENT,
         "kwargs": {"api_key": config.GROK_API_KEY, "model": "grok-2-latest"}
@@ -37,10 +37,10 @@ IMAGE_FOLDER = r"C:\Users\wajee\PycharmProjects\API_keratoconus_research\images"
 
 threads = []
 
-threads.append(threading.Thread(
-    target=run_agent_ask,
-    args=(OPENAIAGENT, {"api_key": config.OPENAI_API_KEY, "model": "gpt-5"}, "gpt5_results.json", IMAGE_FOLDER)
-))
+# threads.append(threading.Thread(
+#     target=run_agent_ask,
+#     args=(OPENAIAGENT, {"api_key": config.OPENAI_API_KEY, "model": "gpt-5"}, "gpt5_results.json", IMAGE_FOLDER)
+# ))
 
 threads.append(threading.Thread(
     target=run_agent_ask,
