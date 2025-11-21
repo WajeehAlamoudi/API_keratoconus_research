@@ -628,6 +628,7 @@ class GEMINIAGENT:
             return reply
 
         except APIError as e:
+            time.sleep(10)
             # Handle context length exceeded specifically
             # Gemini's APIError will contain context limits, but a universal retry is more complex
             # than the OpenAI one. The most direct equivalent is to clear and re-raise.
@@ -637,11 +638,11 @@ class GEMINIAGENT:
                 # # Re-send the *current* user input, which includes the multimodal handling logic above.
                 # return self.ask(user_input=user_input, response_type=response_type)
                 raise ValueError(f"Gemini Context length or quota issue detected: {e}") from e
-
             else:
                 raise ValueError(f"Gemini chat completion failed: {e}") from e
 
         except Exception as e:
+            time.sleep(10)
             raise ValueError(f"Unexpected error during chat completion: {e}") from e
 
     def clear_conversation_history(self):

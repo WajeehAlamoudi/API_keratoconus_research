@@ -54,7 +54,7 @@ threads.append(threading.Thread(
 
 threads.append(threading.Thread(
     target=run_agent_ask,
-    args=(QWENAGENT, {"api_key": config.QWEN_API_KEY, "model": "qwen-3-vl-flash"}, "qwen_results.json", IMAGE_FOLDER)
+    args=(QWENAGENT, {"api_key": config.QWEN_API_KEY, "model": "qwen3-vl-flash"}, "qwen_results.json", IMAGE_FOLDER)
 ))
 
 threads.append(threading.Thread(
